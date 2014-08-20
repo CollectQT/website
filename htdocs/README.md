@@ -20,11 +20,11 @@ There is purposeful vagueness about what we want to do. The focus is on building
 ## The Team!
 
 * (a link somewhere, be it twitter account or website) Whatever name you are most comfortable with (pronouns) 
-* [@lynnmagic](https://twitter.com/LynnMagic) Lynn (she/her)
-* (@mallorydoe)
-* (@MsBlackhart)
-* (@cassiemodus) Cassie (they)
-* (@0x786e6f72) Kord (they)
+* [@lynnmagic](https://twitter.com/LynnMagic) Lynn (she)
+* [@mallorydoe](https://twitter.com/mallorydoe)
+* [@MsBlackhart](https://twitter.com/MsBlackhart)
+* [@cassiemodus](https://twitter.com/cassiemodus) Cassie (they)
+* [@0x786e6f72](https://twitter.com/0x786e6f72) Kord (they)
 
 ## Help Needed!
 
@@ -41,7 +41,7 @@ None of those are mutually exclusive! You can be several if you like! If you wan
 
 **QTCollector:** A group of QTies (people who ID as both queer and trans) who collectively share project ownership and benefit equally (indexed to need) from project resources. This group needs to stay small (4 ~ 10). You'll be expected to check in with the group fairly often (1 ~ 3 times a week).
 
-**QTCommunity:** Initially a collection of QTies who we contract (i.e. there are going to be terms and we are going to pay them) work out to, put effort into teaching, and build things for. At some point this will expand to be inclusive of non-QT identites, but only after we have had a impact on a bunch of rad QTies. If you are a QT and 
+**QTCommunity:** Initially a collection of QTies who we contract (i.e. there are going to be terms and we are going to pay them) work out to, put effort into teaching, and build things for. At some point this will expand to be inclusive of non-QT identites, but only after we have had a impact on a bunch of rad QTies.
 
 **Advocates:** People, QT or otherwise, who want to help out in some way. Advocates work pro-bono / as volunteers. Non-QT advocates must be ok with being described as "minions" as opposed to "allies", and generally not insert their minion opinions into dicussions where they are unwarranted.
 
