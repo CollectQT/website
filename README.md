@@ -2,9 +2,7 @@
 
 ---
 
-About us:
-
-## Goal
+## Goals
 
 Be an economic linking point for QTies. Collect them into a stronger community. Be a primary income source for some (primarily people whose identity keeps them on the edge of the capitalist economy) and a secondary resource source for others (younger QTies, people still in school, people still living with parents).
 
