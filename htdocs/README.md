@@ -23,8 +23,8 @@ There is purposeful vagueness about what we want to do. The focus is on building
 * [@lynnmagic](https://twitter.com/LynnMagic) Lynn (she/her)
 * (@mallorydoe)
 * (@MsBlackhart)
-* (@cassiemodus)
-* (@0x786e6f72)
+* (@cassiemodus) Cassie (they)
+* (@0x786e6f72) Kord (they)
 
 ## Help Needed!
 
