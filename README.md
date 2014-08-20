@@ -17,6 +17,16 @@ There is purposeful vagueness about what we want to do. The focus is on building
 * launch a website
 * write about ideology
 * find more people to help! Maybe YOU!!!
+* Contributor's contract for QTCollector and QTCommunity people
+
+## The Team!
+
+* (a link somewhere, be it twitter account or website) Whatever name you are most comfortable with (pronouns) 
+* [@lynnmagic](https://twitter.com/LynnMagic) Lynn (she/her)
+* (@mallorydoe)
+* (@MsBlackhart)
+* (@cassiemodus)
+* (@0x786e6f72)
 
 ## Help Needed!
 
