@@ -57,20 +57,20 @@ Advocacy that prioritizes the actual people experiencing the oppression. Black Q
 
 ## Politics
 
-We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections we are aware of
+We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections we are aware of. The group will have a focus on countering:
 
-stuff about:
-transphobia
-ableism
-racism
-anti-capitalism
-misogyny
-transmisogyny
+* transphobia
+* ableism
+* racism
+* anti-capitalism
+* misogyny
+* transmisogyny
 
-Definition of terms:
-(terms often have fuzzy cultural meanings so we need to state how **we** use them)
-queer
-trans
+** Definition of terms:** (terms often have fuzzy cultural meanings so we need to state how **we** use them)
+
+* queer - [?]
+* trans - [?]
+* racism - systematic oppression whose basis is on race. Racism is so ingrained into [western?] culture that everyone is a racist. White people do not experience racism.
 
 ## Inspirations
 
@@ -78,11 +78,11 @@ trans
 
 (focus: community serving organizations, cooperatives and generally 'flat' organizations)
 
-TransHack
-DoubleUnion
+* TransHack - A hackathon and speaker series
+* DoubleUnion - feminist makerspace
 
 ### Political Inspirations
 
 (focus: organizations with strong ground level impact for QT communities)
 
-TransHousingNetwork
+* TransHousingNetwork - housing network for trans people
