@@ -30,10 +30,10 @@ There is purposeful vagueness about what we want to do. The focus is on building
 
 Unless **explicitly** stated otherwise, people who are just learning or at entry level are **always** welcome! People we need **now**:
 
-* Writers: People to help write documents (like this one!)
-* Web Developers: There's a lot of web developement that goes into creating a distributed organization! More website infrastructure makes organization easier
-* Organizers: People willing to help organize our efforts 
-* Artists: CollectQT needs iconography! And style!
+* **Writers:** People to help write documents (like this one!)
+* **Web Developers:** There's a lot of web developement that goes into creating a distributed organization! More website infrastructure makes organization easier
+* **Organizers:** People willing to help organize our efforts 
+* **Artists:** CollectQT needs iconography! And style!
 
 None of those are mutually exclusive! You can be several if you like! If you want to do any of those things and are a QT then tweet at [@CollectQT](https://twitter.com/CollectQT) or [@LynnMagic](https://twitter.com/LynnMagic/)! Someone will work on onboarding you ~
 
@@ -57,20 +57,20 @@ Advocacy that prioritizes the actual people experiencing the oppression. Black Q
 
 ## Politics
 
-We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections we are aware of
+We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections we are aware of. The group will have a focus on countering:
 
-stuff about:
-transphobia
-ableism
-racism
-anti-capitalism
-misogyny
-transmisogyny
+* transphobia
+* ableism
+* racism
+* anti-capitalism
+* misogyny
+* transmisogyny
 
-Definition of terms:
-(terms often have fuzzy cultural meanings so we need to state how **we** use them)
-queer
-trans
+** Definition of terms:** (terms often have fuzzy cultural meanings so we need to state how **we** use them)
+
+* queer - [?]
+* trans - [?]
+* racism - systematic oppression whose basis is on race. Racism is so ingrained into [western?] culture that everyone is a racist. White people do not experience racism.
 
 ## Inspirations
 
@@ -78,11 +78,11 @@ trans
 
 (focus: community serving organizations, cooperatives and generally 'flat' organizations)
 
-TransHack
-DoubleUnion
+* TransHack - A hackathon and speaker series
+* DoubleUnion - feminist makerspace
 
 ### Political Inspirations
 
 (focus: organizations with strong ground level impact for QT communities)
 
-TransHousingNetwork
+* TransHousingNetwork - housing network for trans people
