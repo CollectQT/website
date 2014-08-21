@@ -40,7 +40,6 @@ There is purposeful vagueness about what we want to do. The focus is on building
 Unless **explicitly** stated otherwise, people who are just learning or at entry level are **always** welcome! People we need **now**:
 
 * **Writers:** People to help write documents (like this one!)
-* **Web Developers:** There's a lot of web developement that goes into creating a distributed organization! More website infrastructure makes organization easier
 * **Organizers:** People willing to help organize our efforts
 * **Artists:** CollectQT needs iconography! And style!
 
