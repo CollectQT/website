@@ -34,6 +34,11 @@ There is purposeful vagueness about what we want to do. The focus is on building
     * Programming (game, web)
     * Game design
 * [@0x786e6f72](https://twitter.com/0x786e6f72) Kord (they)
+    * Python programming
+    * Web administration
+    * Web design
+    * Logo design / Illustration / Branding
+    * Game design / writing
 
 ## Help Needed!
 
