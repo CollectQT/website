@@ -86,11 +86,11 @@ We want to say our 'politics are intersectional' but saying that has no use if w
 
 (focus: community serving organizations, cooperatives and generally 'flat' organizations)
 
-* TransHack - A hackathon and speaker series
-* DoubleUnion - feminist makerspace
+* **[TransHack](http://www.transhack.org/)** - A hackathon and speaker series
+* **[DoubleUnion](https://www.doubleunion.org)** - feminist makerspace
 
 ### Political Inspirations
 
 (focus: organizations with strong ground level impact for QT communities)
 
-* TransHousingNetwork - housing network for trans people
+* **[TransHousingNetwork](http://www.transhousingnetwork.com/)** - housing network for trans people
