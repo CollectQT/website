@@ -16,6 +16,7 @@ There is purposeful vagueness about what we want to do. The focus is on building
 * write about ideology
 * find more people to help! Maybe YOU!!!
 * Contributor's contract for QTCollector and QTCommunity people
+* Initial project brainstorm!
 
 ## The Team!
 
