@@ -28,6 +28,10 @@ There is purposeful vagueness about what we want to do. The focus is on building
 * [@mallorydoe](https://twitter.com/mallorydoe)
 * [@MsBlackhart](https://twitter.com/MsBlackhart)
 * [@cassiemodus](https://twitter.com/cassiemodus) Cassie (they)
+    * System Administration
+    * Toolsmithing
+    * Programming (game, web)
+    * Game design
 * [@0x786e6f72](https://twitter.com/0x786e6f72) Kord (they)
 
 ## Help Needed!
