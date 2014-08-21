@@ -19,8 +19,12 @@ There is purposeful vagueness about what we want to do. The focus is on building
 
 ## The Team!
 
-* (a link somewhere, be it twitter account or website) Whatever name you are most comfortable with (pronouns) 
+* (a link somewhere, be it twitter account or website) Whatever name you are most comfortable with (pronouns)
+    * Skills / Roles
 * [@lynnmagic](https://twitter.com/LynnMagic) Lynn (she)
+    * Organizer
+    * Web Developer
+    * Writer
 * [@mallorydoe](https://twitter.com/mallorydoe)
 * [@MsBlackhart](https://twitter.com/MsBlackhart)
 * [@cassiemodus](https://twitter.com/cassiemodus) Cassie (they)
@@ -32,7 +36,7 @@ Unless **explicitly** stated otherwise, people who are just learning or at entry
 
 * **Writers:** People to help write documents (like this one!)
 * **Web Developers:** There's a lot of web developement that goes into creating a distributed organization! More website infrastructure makes organization easier
-* **Organizers:** People willing to help organize our efforts 
+* **Organizers:** People willing to help organize our efforts
 * **Artists:** CollectQT needs iconography! And style!
 
 None of those are mutually exclusive! You can be several if you like! If you want to do any of those things and are a QT then tweet at [@CollectQT](https://twitter.com/CollectQT) or [@LynnMagic](https://twitter.com/LynnMagic/)! Someone will work on onboarding you ~
