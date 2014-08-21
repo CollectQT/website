@@ -70,7 +70,7 @@ We want to say our 'politics are intersectional' but saying that has no use if w
 * transphobia
 * ableism
 * racism
-* anti-capitalism
+* capitalism
 * misogyny
 * transmisogyny
 
