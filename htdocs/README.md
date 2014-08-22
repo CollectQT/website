@@ -24,6 +24,7 @@ There is purposeful vagueness about what we want to do. The focus is on building
     * Skills / Roles
 * [@lynnmagic](https://twitter.com/LynnMagic) Lynn (she)
     * Organizer
+    * Python Programmer
     * Web Developer
     * Writer
 * [@mallorydoe](https://twitter.com/mallorydoe)
