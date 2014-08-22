@@ -54,6 +54,12 @@ Unless **explicitly** stated otherwise, people who are just learning or at entry
 
 None of those are mutually exclusive! You can be several if you like! If you want to do any of those things and are a QT then tweet at [@CollectQT](https://twitter.com/CollectQT) or [@LynnMagic](https://twitter.com/LynnMagic/)! Someone will work on onboarding you ~
 
+## Productive Enterprises
+
+* Websites / Services
+* Remaking and rehosting certain written material (examples below)
+    * [Learn You a Haskell](http://learnyouahaskell.com/)  
+
 ## Group Infrastructure
 
 **QTCollector:** A group of QTies (people who ID as both queer and trans) who collectively share project ownership and benefit equally (indexed to need) from project resources. This group needs to stay small (4 ~ 10). You'll be expected to check in with the group fairly often (1 ~ 3 times a week).
