@@ -59,9 +59,9 @@ None of those are mutually exclusive! You can be several if you like! If you wan
 
 (some of the links are forwards)
 
-* Website! [collectqt.me](http://collectqt.me)
-* Chat! [chat.collectqt.me](http://chat.collectqt.me)
-* Code! [github/collectqt](https://github.com/CollectQT/)
+* Website [collectqt.me](http://collectqt.me)
+* Chat [chat.collectqt.me](http://chat.collectqt.me)
+* Code [github/collectqt](https://github.com/CollectQT/)
 
 ## Productive Enterprises
 
