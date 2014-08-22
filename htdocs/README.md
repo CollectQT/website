@@ -28,6 +28,8 @@ There is purposeful vagueness about what we want to do. The focus is on building
     * Writer
 * [@mallorydoe](https://twitter.com/mallorydoe)
 * [@MsBlackhart](https://twitter.com/MsBlackhart)
+    * Public Relations
+    * Music / Sound Effects
 * [@cassiemodus](https://twitter.com/cassiemodus) Cassie (they)
     * System Administration
     * Toolsmithing
