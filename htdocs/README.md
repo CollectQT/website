@@ -30,6 +30,8 @@ There is purposeful vagueness about what we want to do. The focus is on building
 * [@MsBlackhart](https://twitter.com/MsBlackhart)
     * Public Relations
     * Music / Sound Effects
+    * Quality Analysis / Testing
+    * Tech Support
 * [@cassiemodus](https://twitter.com/cassiemodus) Cassie (they)
     * System Administration
     * Toolsmithing
