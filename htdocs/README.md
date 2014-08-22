@@ -55,6 +55,14 @@ Unless **explicitly** stated otherwise, people who are just learning or at entry
 
 None of those are mutually exclusive! You can be several if you like! If you want to do any of those things and are a QT then tweet at [@CollectQT](https://twitter.com/CollectQT) or [@LynnMagic](https://twitter.com/LynnMagic/)! Someone will work on onboarding you ~
 
+## Links!
+
+(some of the links are forwards)
+
+* Website! [collectqt.me](http://collectqt.me)
+* Chat! [chat.collectqt.me](http://chat.collectqt.me)
+* Code! [github/collectqt](https://github.com/CollectQT/)
+
 ## Productive Enterprises
 
 * Websites / Services
