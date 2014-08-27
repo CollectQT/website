@@ -1,0 +1,108 @@
+body, div, header, footer, section, ul, li {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    display: block;
+    position: relative;
+}
+
+img { border: none; }
+.clear { clear: both; }
+.floatLeft { float: left; margin: 0 20px 20px 0; }
+.floatRight { float: right; }
+/*
+.2col { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; column-fill: auto; }
+.3col { -webkit-column-count: 3; -moz-column-count: 3; column-count: 3; column-fill: auto; }
+*/
+.col { width: 33%; display: inline-block;}
+.col0 { text-align: left; }
+.col1 { text-align: center; }
+.col2 { text-align: right; }
+.blkbrdr { border: 5px solid black; border-left: none; border-right: none; }
+
+body {
+    background: white;
+    color: #000000;
+    font-family: 'Roboto Slab', serif;
+    font-size: 13px;
+    }
+
+a, a:link, a:visited, a:active, a:hover {
+    color: #2e2eff;
+    text-decoration: none;
+}
+
+#main {
+    width: 100%;
+    padding: 50px 200px;
+}
+
+header {
+    height: 125px;
+    padding: 20px 50px;
+    width: 100%;
+    color: #2e2eff;
+}
+
+nav a, nav a:link, nav a:visited, nav a:active, nav a:hover {
+    color: inherit;
+}
+
+footer {
+    height: 95px;
+    padding: 20px 50px;
+    width: 100%;
+    color: #2e2eff;
+}
+
+#banner {
+    height: 400px;
+    width: 100%;
+    background: url(/images/trans.png) center center repeat fixed, url(/images/queertechBanner.png) left top repeat-x scroll;
+    border-top: none;
+    padding: 50px;
+    font-family: 'Share Tech Mono', mono;
+    font-weight: bold;
+    font-size: 40px;
+    color: #2e2eff;
+}
+
+header .logo {
+    width: 75px;
+}
+
+header .collectQT {
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    font-size: 32px;
+    position: relative;
+    top: -16px;
+    left: -10px;
+}
+
+header nav {
+    font-family: 'Share Tech Mono', mono;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+footer #cr {
+    font-size: 19px;
+}
+
+footer .logo {
+    width: 50px;
+}
+
+footer nav {
+    font-family: 'Share Tech Mono', mono;
+    font-size: 13px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+footer nav img {
+    height: 25px;
+}
+
