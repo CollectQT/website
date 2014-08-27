@@ -36,7 +36,7 @@ a, a:link, a:visited, a:active, a:hover {
 @media all {
     #main {
         width: 100%;
-        padding: 50px 200px;
+        padding: 50px 15%;
     }
 }
 @media all and (max-height: 500px), (max-width: 500px){
