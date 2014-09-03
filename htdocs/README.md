@@ -27,7 +27,6 @@ There is purposeful vagueness about what we want to do. The focus is on building
     * Python Programmer
     * Web Developer
     * Writer
-* [@mallorydoe](https://twitter.com/mallorydoe)
 * [@MsBlackhart](https://twitter.com/MsBlackhart)
     * Public Relations
     * Music / Sound Effects
@@ -67,7 +66,7 @@ None of those are mutually exclusive! You can be several if you like! If you wan
 
 * Websites / Services
 * Remaking and rehosting certain written material (examples below)
-    * [Learn You a Haskell](http://learnyouahaskell.com/)  
+    * [Learn You a Haskell](http://learnyouahaskell.com/)
 
 ## Group Infrastructure
 
