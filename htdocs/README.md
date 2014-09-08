@@ -4,40 +4,56 @@
 
 ## Goals
 
-Be an economic linking point for QTies. Collect them into a stronger community. Be a primary income source for some (primarily people whose identity keeps them on the edge of the capitalist economy) and a secondary resource source for others (younger QTies, people still in school, people still living with parents).
+Be an economic linking point for QTies. Collect them into a stronger community. Be a primary income source for some (primarily people whose identity keeps them on the edge of the capitalist economy) and a secondary resource source for others (younger QTies, people still in school, people still living with family).
 
-## What Are We Going to **Do**?
+## Active Projects
 
-There is purposeful vagueness about what we want to do. The focus is on building group infrastructure and community first, and working towards a product second. That being said, the skillsets we have right now are leaning us towards game developement! It could be as specific to queerness as [The Hunt for the Gay Planet](http://www.auntiepixelante.com/gayplanet/#1j.1), or simply a [Dwarf Fortress](bay12games.com/dwarves/) clone with more queer characters. Second up on our potential projects is websites / apps / services.
+* [Bloob Game!](https://gitorious.org/bloob_game/bloob_game/source/develop:) for [Ruin Game Jam](itch.io/jam/ruinjam2014)
+* Creating group infrastructure (technical and otherwise)
+* Developing a hella socialist charter
+* Finding more rad QTies (Maybe YOU!!!)
+* Building ties with other community organizations
 
-## Current TODO:
+## Culture
 
-* launch a website
-* write about ideology
-* find more people to help! Maybe YOU!!!
-* Contributor's contract for QTCollector and QTCommunity people
-* Initial project brainstorm!
+A strong focus on **accessibility** and **inclusion**. Example: despite being a tech based project, we're going to take the time to make sure the project doesn't read as 'too tech', or as 'too good' for entry level people.
+
+Advocacy that reaches into 'counter-oppressive' culture. We're **'reverse racist'** and **'cis-phobic'**.
+
+Advocacy that prioritizes the actual people experiencing the oppression. **Black Queer Trans Women** come first, everyone else is some degree of minion (see: 'Allies').
+
+**'Allies'** are minions around here. Still working on the exact terminology but the basic concept is that ally-ship based upon race / gender / sexuality always works in such a way that the "ally" has power over the person in the group (because of systematic oppression). To help counter that structural force, allies shall be denoted as minions (or some variant there-of)
+
+## Politics
+
+We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections we actively are aware of. The group will have a focus on countering:
+
+* **capitalism** - an economic system wherein the means of production are largely privately owned
+* **transphobia** - fear or hate of trans people
+* **ableism** - discrimination due to ability / disability
+* **racism** - systematic oppression whose basis is race
+* **misogyny** - discrimination against women
+* **transmisogyny** - transphobia as applied to women, misogyny as applied to trans people
 
 ## The Team!
 
-* (a link somewhere, be it twitter account or website) Whatever name you are most comfortable with (pronouns)
-    * Skills / Roles
-* [@lynnmagic](https://twitter.com/LynnMagic) Lynn (she)
+* **Lynn (she / her) // [@lynnmagic](https://twitter.com/LynnMagic)**
+    * Founder
     * Organizer
     * Python Programmer
-    * Web Developer
+    * Web Developer / Game Developer
     * Writer
-* [@MsBlackhart](https://twitter.com/MsBlackhart)
+* **Joanna (she / her) // [@MsBlackhart](https://twitter.com/MsBlackhart)**
     * Public Relations
     * Music / Sound Effects
     * Quality Assurance / Testing
     * Tech Support
-* [@cassiemodus](https://twitter.com/cassiemodus) Cassie (they)
+* **Cassie (they / their) // [@cassie?](https://twitter.com/?)**
     * System Administration
     * Toolsmithing
     * Programming (game, web)
     * Game design
-* [@0x786e6f72](https://twitter.com/0x786e6f72) Kord (they)
+* **Kord (they / their) // [@wulficorn?](https://twitter.com/?)**
     * Python programming
     * Web administration
     * Web design
@@ -46,27 +62,14 @@ There is purposeful vagueness about what we want to do. The focus is on building
 
 ## Help Needed!
 
-Unless **explicitly** stated otherwise, people who are just learning or at entry level are **always** welcome! People we need **now**:
+Unless **explicitly** stated otherwise, people who are just learning or at **entry level** are always welcome! People we need **now**:
 
 * **Writers:** People to help write documents (like this one!)
 * **Organizers:** People willing to help organize our efforts
 * **Artists:** CollectQT needs iconography! And style!
+* **Developers:** Computerers of all sorts
 
-None of those are mutually exclusive! You can be several if you like! If you want to do any of those things and are a QT then tweet at [@CollectQT](https://twitter.com/CollectQT) or [@LynnMagic](https://twitter.com/LynnMagic/)! Someone will work on onboarding you ~
-
-## Links!
-
-(some of the links are forwards)
-
-* Website [collectqt.me](http://collectqt.me)
-* Chat [chat.collectqt.me](http://chat.collectqt.me)
-* Code [github/collectqt](https://github.com/CollectQT/)
-
-## Productive Enterprises
-
-* Websites / Services
-* Remaking and rehosting certain written material (examples below)
-    * [Learn You a Haskell](http://learnyouahaskell.com/)
+None of those are mutually exclusive! You can be several if you like! If you want to do any of those things and are a QT then tweet at [@CollectQT](https://twitter.com/CollectQT)! Someone will give you the run down ~
 
 ## Group Infrastructure
 
@@ -76,44 +79,10 @@ None of those are mutually exclusive! You can be several if you like! If you wan
 
 **Advocates:** People, QT or otherwise, who want to help out in some way. Advocates work pro-bono / as volunteers. Non-QT advocates must be ok with being described as "minions" as opposed to "allies", and generally not insert their minion opinions into dicussions where they are unwarranted.
 
-## Culture
-
-A strong focus on accessibility and inclusion. Example: despite being a tech based project, we're going to take the time to make sure the project doesn't read as 'too tech', or as 'too good' for entry level people.
-
-Advocacy that reaches into 'counter-oppressive' culture. We're 'reverse racist' and 'cis-phobic'.
-
-Advocacy that prioritizes the actual people experiencing the oppression. Black Queer Trans Women come first, everyone else is some degree of minion.
-
-'Allies' are minions around here. Still working on the exact terminology but the basic concept is that ally-ship based upon race / gender / sexuality always works in such a way that the "ally" has power over the person in the group (because of systematic oppression). To help counter that structural force, allies shall be denoted as minions (or some variant there-of)
-
-## Politics
-
-We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections we are aware of. The group will have a focus on countering:
-
-* transphobia
-* ableism
-* racism
-* capitalism
-* misogyny
-* transmisogyny
-
-** Definition of terms:** (terms often have fuzzy cultural meanings so we need to state how **we** use them)
-
-* queer - [?]
-* trans - [?]
-* racism - systematic oppression whose basis is on race. Racism is so ingrained into [western?] culture that everyone is a racist. White people do not experience racism.
-
 ## Inspirations
 
-### Organizational Inspirations (i.e. not politcal)
-
-(focus: community serving organizations, cooperatives and generally 'flat' organizations)
-
-* **[TransHack](http://www.transhack.org/)** - A hackathon and speaker series
-* **[DoubleUnion](https://www.doubleunion.org)** - feminist makerspace
-
-### Political Inspirations
-
-(focus: organizations with strong ground level impact for QT communities)
-
+* **[TransHack](http://www.transhack.org/)** - A hackathon and speaker series, helped spread the trans + tech thing
+* **[DoubleUnion](https://www.doubleunion.org)** - feminist makerspace, forms a lot of the basis for how we run our organization
 * **[TransHousingNetwork](http://www.transhousingnetwork.com/)** - housing network for trans people
+* **[Quilted](http://quilted.coop)** - a QTPoC inclusive tech cooperative
+* **[Zeal](https://medium.com/mammon-machine-zeal)** - a radical game zine with a bunch of trans writers
