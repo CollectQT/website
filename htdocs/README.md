@@ -41,7 +41,7 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Founder
     * Organizer
     * Python Programmer
-    * Web Developer / Game Developer
+    * Programming (game, web)
     * Writer
 * **Joanna (she / her) // [@MsBlackhart](https://twitter.com/MsBlackhart)**
     * Public Relations
