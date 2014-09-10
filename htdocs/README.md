@@ -65,6 +65,7 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Clothing design
     * Makeup SFX / sculpting
     * Video editing
+    * Organizing
 
 ## Help Needed!
 
