@@ -49,12 +49,12 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Music / Sound Effects
     * Quality Assurance / Testing
     * Tech Support
-* **Cassie (they / their) // [@cassie?](https://twitter.com/?)**
+* **Cassie (they / their) // [@cassiedelia](https://twitter.com/cassiedelia)**
     * System Administration
     * Toolsmithing
     * Programming (game, web)
     * Game design
-* **Kord (they / their) // [@wulficorn?](https://twitter.com/?)**
+* **Kord (they / their) // [@wulficorn](https://twitter.com/wulficorn)**
     * Python programming
     * Web administration
     * Web design
