@@ -18,7 +18,7 @@ Be an economic linking point for QTies. Collect them into a stronger community. 
 
 A strong focus on **accessibility** and **inclusion**. Example: despite being a tech based project, we're going to take the time to make sure the project doesn't read as 'too tech', or as 'too good' for entry level people.
 
-Advocacy that reaches into 'counter-oppressive' culture. We're **'reverse racist'** and **'cis-phobic'**.
+Advocacy that reaches into 'counter-oppressive' culture. We're **'reverse racist'** and **'cis-phobic'**. Our social justice party includes not only a warrior but also a mage, support, and a tank.
 
 Advocacy that prioritizes the actual people experiencing the oppression. **Black Queer Trans Women** come first, everyone else is some degree of minion (see: 'Allies').
 
@@ -26,14 +26,15 @@ Advocacy that prioritizes the actual people experiencing the oppression. **Black
 
 ## Politics
 
-We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections we actively are aware of. The group will have a focus on countering:
+We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections and systems we actively are aware of, those being:
 
-* **capitalism** - an economic system wherein the means of production are largely privately owned
-* **transphobia** - fear or hate of trans people
-* **ableism** - discrimination due to ability / disability
-* **racism** - systematic oppression whose basis is race
-* **misogyny** - discrimination against women
-* **transmisogyny** - transphobia as applied to women, misogyny as applied to trans people
+* **whorephobia / slutshaming** - Sex is not a bad or shameful thing to have, and sex work is work just as much as being a cashier is work
+* **capitalism** - An economic system wherein the means of production are largely privately owned. Capitalism is inherely oppressive.
+* **transphobia** - Fear or hate of trans people
+* **ableism** - Discrimination due to ability / disability
+* **racism** - Systematic oppression whose basis is race.
+* **misogyny** - Discrimination against women
+* **transmisogyny** - Transphobia as applied to women, or misogyny as applied to trans people
 
 ## The Team!
 
