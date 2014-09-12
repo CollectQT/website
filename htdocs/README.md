@@ -60,7 +60,7 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Web design
     * Logo design / Illustration / Branding
     * Game design / writing
-* **Ophelia (they / their) // [@NoImOpheliaRly](https://twitter.com/NoImOpheliaRly)**
+* **Ophelia (they / their) // [@NoIamOpheliaRly](https://twitter.com/NoImOpheliaRly)**
     * Writing
     * Advertising
     * Clothing design
