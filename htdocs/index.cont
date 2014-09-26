@@ -1,3 +1,0 @@
-{# embed not implemented yet #}
-{% getcontent('/README.md') %}
-
