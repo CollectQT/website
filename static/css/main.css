@@ -1,0 +1,216 @@
+.visible {
+ opacity: 1; }
+
+ .invisible {
+ opacity: 0; }
+
+ .inline {
+ display: inline; }
+
+ .block {
+ display: block; }
+
+ .none {
+ display: none; }
+
+ .positionAbsolute {
+ position: absolute; }
+
+ .positionStatic {
+ position: static; }
+
+ .center {
+ margin-left: auto;
+ margin-right: auto; }
+
+ .center_text {
+  text-align: center; }
+
+  .no_flair {
+  text-shadow: none; }
+
+  h1, h2, h3, h4, h5, p, .heading {
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: black; }
+
+  h1, h2, h3, h4, h5, .heading {
+  line-height: 1.3em;
+  font-family: "Press Start 2P", monospace;
+  text-shadow: 0 0 0.1em purple; }
+
+  html, body, .texture {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%; }
+
+  body {
+  background-color: white;
+  overflow-x: hidden;
+  font-family: "Press Start 2P", monospace; }
+
+  .body_texture {
+  position: fixed;
+  background-image: url(http://i.imgur.com/5NGuyjJ.png);
+  z-index: -1;
+  opacity: 0.8; }
+
+  nav, footer, article {
+  background-color: white;
+  width: 100%; }
+
+  main {
+   display: table;
+   list-style-type: none; }
+
+   p, blockquote, ul {
+   font-family: "Ubuntu Mono", sans-serif;
+   line-height: 1.1em; }
+
+   ul {
+   list-style-type: square; }
+
+   a {
+   cursor: inherit;
+   text-decoration: inherit;
+   transition: color 0.33s; }
+
+   main a {
+   color: purple; }
+
+   main a:hover {
+   color: orange; }
+
+   nav button {
+   position: relative;
+   display: block;
+   opacity: 0.7;
+   border: none;
+   text-align: right;
+   background-color: purple;
+   transition: color 0.5s, background-color 0.5s; }
+   nav button:hover {
+   color: white;
+   background-color: black; }
+   nav button:active {
+    color: black;
+    background-color: white; }
+
+.heading {
+ font-family: "Press Start 2P", monospace; }
+
+ .heading_small {
+ font-size: 1.5em; }
+
+ .heading_large {
+ font-size: 2em; }
+
+ .content {
+ font-family: "Ubuntu Mono", sans-serif; }
+
+ .logo-large {
+ height: 100px; }
+
+ .logo-small {
+ height: 50px; }
+
+ @media all {
+ nav {
+ position: fixed;
+ width: 100%;
+ height: 60px;
+ padding: 20px 10%;
+ box-shadow: 0 0 10px 5px purple; }
+ main {
+  width: 50%;
+  margin: 40px auto;
+  margin-bottom: 0; }
+  article {
+  padding-top: 60px;
+  padding-left: 15px;
+  padding-right: 15px;
+  box-shadow: 0 0 10px 0 black; }
+  footer {
+  padding: 20px 10%;
+  box-shadow: 0 0 6px 3px purple; }
+  p {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 15px; }
+  blockquote {
+  margin-left: 60px;
+  margin-right: 60px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  font-style: italic; }
+  ul {
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px; }
+}
+
+@media all and (max-height: 500px), (max-width: 500px) {
+ html {
+ font-size: 0.7em; }
+ main {
+ width: 100%;
+ padding: 5px 20px; }
+ nav button {
+ padding-top: 5px;
+ padding-bottom: 5px;
+ padding-right: 15px;
+ margin-bottom: 5px; }
+ h3 {
+ padding-top: 5px;
+ padding-bottom: 5px;
+ margin-bottom: 5px; }
+ article {
+ border-style: none;
+ border-radius: 0;
+ padding-bottom: 5px;
+ margin-top: 20px;
+ margin-bottom: 30px;
+ margin-left: 0;
+ margin-right: 0;
+ width: 100%; }
+ p {
+ margin-left: 0px;
+ margin-right: 0px; }
+}
+
+.fa-linkedin {
+ color: #4875B4; }
+
+ .fa-twitter {
+ color: #33CCFF; }
+
+ .fa-skype {
+ color: #12A5F4; }
+
+ .fa-envelope {
+ color: gray; }
+
+ .fa-github {
+ color: black; }
+
+ .fa-rss-square {
+ color: orange; }
+
+ .fa {
+ font-size: 1.5em; }
+
+ .twitter-tweet {
+ margin-left: auto !important;
+ margin-right: auto !important; }
