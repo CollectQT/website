@@ -1,0 +1,53 @@
+<h1 class="center_text">I Want to Help CollectQT build Quirell, Now What?</h1>
+
+* **[CollectQT](http://collectqt.me)** - a Queer Trans Collective, currently overseeing the management of:
+* **[Quirell](https://gitlab.com/collectqt/quirell)** - the work in progress name of CollectQT's social network
+
+## Computerers:
+
+If you can code, work on **UX/UI**, are focused on **back-end** or **front end** development, or self-identified as someone that would prefer to work on coding issues -- we'll need your help sooner rather than later! Many of the issues that are facing us regarding programming can be found at the following links:
+
+**[Issue 20](https://gitlab.com/collectqt/quirell/issues/20)** - This is the gitlab hub for our **Design Fundamentals**. If it has to do with overall site design, you'll find it here. Post any concerns that you may have, discuss features, and please let us know if your particular skillset will be useful in tracking a design issue. Don't be shy! Even if you're a beginner computerer, we need your help to make this project successful!
+
+**[Issue 24](https://gitlab.com/collectqt/quirell/issues/24)** - This page hosts our page regarding **Visual Accessibility** for Quirell. If you have ideas or tips on how to make sites accessible to those with visual or spacial preception issues, please comment here. If you have a coding issue that is related to UX/UI design or overall site use, please add your thoughts/suggestions!
+
+**[Issue 22](https://gitlab.com/collectqt/quirell/issues/22)** - This is our page regarding how **Security** will work on the Quirell social network. All issues pertaining to data, code, how we handle user data, etc. can be found here. Please be sure to view the following **sub-forms** related to security, coding, and general programming issues if you think you can help with them:
+
+* [Handles the issue of multiple personas](https://gitlab.com/collectqt/quirell/issues/21)
+* [Blocking users](https://gitlab.com/collectqt/quirell/issues/16)
+* [Content Tagging/Access Control](https://gitlab.com/collectqt/quirell/issues/15)
+* [Account Creation](https://gitlab.com/collectqt/quirell/issues/7)
+* [Backend framework language](https://gitlab.com/collectqt/quirell/issues/14)
+* [Content parsing (URLs/Videos)](https://gitlab.com/collectqt/quirell/issues/9)
+* [Scalability](https://gitlab.com/collectqt/quirell/issues/25)
+* [Native Mobile Interface](https://gitlab.com/collectqt/quirell/issues/30)
+
+## Organizers:
+
+We are overwhelmed by the response from the community regarding CollectQT and Quirell, and look forward to building an amazing queer/trans founded and inclusive social network. Without organizers, we cannot get our message to those who need it most. Our culture is one of inclusivity and inherently sex-positive while respecting all gender identities, orientations, and intersectional areas of the communities that CollectQT hopes to serve.
+
+If you have expressed interest in helping to organize or contribute to Quirell's culture -- we want to thank you for your voice. We are listening and including as many QT **[especially QTWoC]** voices as possible, and strive for a culture that is inclusive and allows you to be the best version of yourself possible while meeting QTies like you!
+
+Our current issues regarding culture and organization can be found at the following links:
+
+**[Issue 23](https://gitlab.com/collectqt/quirell/issues/23)** - This board represents discussion regarding **UTF8/Unicode** support for Quirell. Being UTF8 aware allows us to support not only users with Kanji in their usernames, or those that write in languages such as German, but allows us to circumvent any threats that may be present by not addressing this issue out of the gate during Quirell's formation.
+
+**[Issue 21](https://gitlab.com/collectqt/quirell/issues/21)** - This thread is related to issues of **multiple personas** on Quirell. This feature can be used in a variety of circumstances, not only for those with safety concerns to address -- but those who belong to part of a multiple system and whose alters wish to sign up for Quirell, or trans people managing two identities because of transition.
+
+**[Issues 17](https://gitlab.com/collectqt/quirell/issues/17)** - Culture and community directly relate to those around you. This thread is in reference to who can **follow** a user, how **mentions** are handled, and how members of our community can handle the requests that they recieve from users that they do not follow. If you have thoughts/experiences to add on how to improve this part of Quirell's culture, please add them to this thread.
+
+## Writers:
+
+Words are powerful, and CollectQT takes great care to ensure that ours are used to empower the QT community and make the changes that we want to see in our social network.
+
+If you have **experience in writing**, whether it be copywriting, journalism, public relations, or even just blogging -- please get in touch with us! All are welcome, and we would love to get to know you and your work. If you have indicated that you are willing/able to help CollectQT with writing endeavors, please be aware of the following threads:
+
+**[Issue 28](https://gitlab.com/collectqt/quirell/issues/28)** - This is a vital part of creating Quirell, our **community survey**. This data will enable us to structure Quirell to serve the entirety of the community, and allows us to address concerns that users may have on a scale that is easy to understand.
+
+If you would like to help us write questions, or have thoughts on what could be asked/what should be avoided -- please add them to this thread.
+
+**[Issue 33](https://gitlab.com/collectqt/quirell/issues/33)** - The Quirell **Project Description** is a robust, living document that can and will be changed as our project grows. Currently, we are building the backbone of what this project is, what it means, and what we aim to do. If you have any thoughts as to what should be included here, or any general writing that may be of use to this thread, please don't hesitate to reach out to us.
+
+We are grateful for everyone's support, and look forward to making Quirell a successful social network for our community and beyond.
+
+**[-- Rin, CollectQT Writing and PR](https://twitter.com/rin_the_writer)**
