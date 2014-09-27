@@ -224,40 +224,42 @@ nav button {
 
 @media all and (max-height: $mobile_xy), (max-width: $mobile_xy){
 
-    html {font-size: 0.7em;}
+    html {font-size: 0.8em;}
+
+
+    //block level
+
+    nav {
+        position: fixed;
+        //
+        width: 100%;
+        height: 50px;
+        padding: 15px 10%;
+        //
+    }
 
     main {
-        width: 100%;
-        padding: 5px 20px;
-    }
-
-    nav button {
-        padding-top: 5px;
-        padding-bottom: 5px;
-        padding-right: 15px;
-        margin-bottom: 5px;
-    }
-
-    h3 {
-        padding-top: 5px;
-        padding-bottom: 5px;
-        margin-bottom: 5px;
+        width: 85%;
+        margin: 30px auto;
     }
 
     article {
-        border-style: none;
-        border-radius: 0;
-        padding-bottom: 5px;
-        margin-top: 20px;
-        margin-bottom: 30px;
-        margin-left: 0;
-        margin-right: 0;
-        width: 100%;
+        padding-top: 50px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
+    footer {
+        padding: 15px 10%;
+    }
+
+    //content level
+
     p {
-        margin-left: 0px;
-        margin-right: 0px;
+        margin-top: 5px;
+        margin-bottom: 0;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
 
