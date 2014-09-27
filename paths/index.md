@@ -58,6 +58,11 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Makeup SFX / sculpting
     * Video editing
     * Organizing
+* **Rin (they / their) // [@Rin_The_Writer](https://twitter.com/@rin_the_writer)
+    * Writer
+    * Public Relations
+    * Organizing
+    * [Writing Queer Book !!!](http://ckoliver.com/embers)
 
 ## Help Needed!
 
