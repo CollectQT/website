@@ -6,13 +6,15 @@
 
 ## Goals
 
-Be an economic linking point for QTies. Collect them into a stronger community. Be a primary income source for some (primarily people whose identity keeps them on the edge of the capitalist economy) and a secondary resource source for others (younger QTies, people still in school, people still living with family).
+* Be an economic linking point for QTies. Collect them into a stronger community
+* Be a primary income source for some, and a secondary resource source for others
+* Rebuild economic circles and internet infrastructure to better serve QTies
 
-## Active Projects
+## Our Members are Working On...
 
-* [Bloob Game!](https://gitorious.org/bloob_game/bloob_game/source/develop:) for [Ruin Game Jam](itch.io/jam/ruinjam2014)
-* Creating group infrastructure (technical and otherwise)
-* Developing a hella socialist charter
+* [A funding site for QTies and activists](http://gitlab.com/atunit/atunit/tree/develop)
+* [A safe and inclusive social network](http://https://gitlab.com/collectqt/quirell/issues)
+* [Bloobs!](http://collectqt.me/bloobs) for [Ruin Game Jam](http://itch.io/jam/ruinjam2014)
 * Finding more rad QTies (Maybe YOU!!!)
 * Building ties with other community organizations
 
@@ -40,6 +42,8 @@ We want to say our 'politics are intersectional' but saying that has no use if w
 
 ## The Team!
 
+<h3 class='center_text'>QTBuilders</h3>
+
 * **Lynn (she / her) // [@lynnmagic](https://twitter.com/LynnMagic)**
     * Founder
     * Organizer
@@ -51,6 +55,9 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Music / Sound Effects
     * Quality Assurance / Testing
     * Tech Support
+
+<h3 class='center_text'>QTCollectors</h3>
+
 * **Ophelia (they / their) // [@NoIamOpheliaRly](https://twitter.com/NoImOpheliaRly)**
     * Writing
     * Advertising
@@ -64,7 +71,7 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Organizing
     * [Writing Queer Book !!!](http://ckoliver.com/embers)
 
-## Help Needed!
+## [Help Needed!](http://collectqt.me/work-with-us)
 
 Unless **explicitly** stated otherwise, people who are just learning or at **entry level** are always welcome! People we need **now**:
 
@@ -73,15 +80,7 @@ Unless **explicitly** stated otherwise, people who are just learning or at **ent
 * **Artists:** CollectQT needs iconography! And style!
 * **Developers:** Computerers of all sorts
 
-None of those are mutually exclusive! You can be several if you like! If you want to do any of those things and are a QT then tweet at [@CollectQT](https://twitter.com/CollectQT)! Someone will give you the run down ~
-
-## Group Infrastructure
-
-**QTCollector:** A group of QTies (people who ID as both queer and trans) who collectively share project ownership and benefit equally (indexed to need) from project resources. This group needs to stay small (4 ~ 10). You'll be expected to check in with the group fairly often (1 ~ 3 times a week).
-
-**QTCommunity:** Initially a collection of QTies who we contract (i.e. there are going to be terms and we are going to pay them) work out to, put effort into teaching, and build things for. At some point this will expand to be inclusive of non-QT identites, but only after we have had a impact on a bunch of rad QTies.
-
-**Advocates:** People, QT or otherwise, who want to help out in some way. Advocates work pro-bono / as volunteers. Non-QT advocates must be ok with being described as "minions" as opposed to "allies", and generally not insert their minion opinions into dicussions where they are unwarranted.
+[For more about working with us, go to the "Work With Us!" page](http://collectqt.me/work-with-us)
 
 ## Inspirations
 
