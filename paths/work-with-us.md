@@ -47,6 +47,8 @@ Does our team sound like something you want to be a part of? Are you interested,
     * music and sound composition
     * writing / public relations / internet organizing
 
+CollectQT acknowledges that being Queer and Trans is closely tied with the sex work community and homelessness. Many QTies are forced into sex work in order to get out of homelessness, to avoid homelessness, or sometimes sex work is the cause of becoming homeless due to whorephobia. Because of this close tie CollectQT gives hiring preference to those who have been, or currently are a sex worker or homeless if there are two equally qualified applicants.
+
 ## How To Apply
 
 The application process for CollectQT is still being worked on, but if you know any of the current members of CollectQT, give them a **"work resume"** + **"cultural resume"** and some **social media** links. Everyone who applies to CollectQT gets voted on by the other members, so the process might take quite some time.
