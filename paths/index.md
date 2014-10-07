@@ -70,6 +70,11 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Public Relations
     * Organizing
     * [Writing Queer Book !!!](http://ckoliver.com/embers)
+* **Annie Mei (she / her / they) // [@annie_mei_shen] (https://twitter.com/annie_mei_shen)**
+    * Writer
+    * Researcher
+    * Design
+    * Culinary Artist
 
 ## [Help Needed!](http://collectqt.me/work-with-us)
 
