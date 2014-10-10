@@ -13,7 +13,7 @@
 ## Our Members are Working On...
 
 * [A funding site for QTies and activists](http://gitlab.com/atunit/atunit/tree/develop)
-* [A safe and inclusive social network](http://https://gitlab.com/collectqt/quirell/issues)
+* [A safe and inclusive social network](https://gitlab.com/collectqt/quirell/issues)
 * [Bloobs!](http://collectqt.me/bloobs) for [Ruin Game Jam](http://itch.io/jam/ruinjam2014)
 * Finding more rad QTies (Maybe YOU!!!)
 * Building ties with other community organizations
