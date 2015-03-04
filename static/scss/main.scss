@@ -47,8 +47,6 @@ $body_font: "Ubuntu Mono", sans-serif;
 $cursive_font: "Walter Turncoat", cursive;
 $texture: url(http://i.imgur.com/5NGuyjJ.png);
 
-$mobile_xy: 500px;
-
 /*---------------
     GLOBAL
 -----------------*/
@@ -133,6 +131,13 @@ nav button {
     }
 }
 
+hr {
+    border: none;
+    background-color: $secondary_color;
+    color: $secondary_color;
+    height: 2px;
+}
+
 //helpers
 
 .heading {font-family: $title_font;}
@@ -215,16 +220,30 @@ nav button {
         padding-left: 15px;
         padding-bottom: 15px;
     }
+
+    hr {
+        margin: 50px;
+    }
+
+}
+
+/*---------------
+     mid sized
+-----------------*/
+
+@media all and (max-width: 1000px){
+    main {
+        width: 85%;
+    }
 }
 
 /*---------------
     MOBILE
 -----------------*/
 
-@media all and (max-height: $mobile_xy), (max-width: $mobile_xy){
+@media all and (max-width: 500px){
 
     html {font-size: 0.8em;}
-
 
     //block level
 

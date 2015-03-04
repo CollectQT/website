@@ -98,7 +98,13 @@
     color: black;
     background-color: white; }
 
-.heading {
+hr {
+ border: none;
+ background-color: purple;
+ color: purple;
+ height: 2px; }
+
+ .heading {
  font-family: "Press Start 2P", monospace; }
 
  .heading_small {
@@ -118,13 +124,13 @@
 
  @media all {
  nav {
- text-align: center;
- position: fixed;
- box-sizing: border-box;
- width: 100%;
- padding: 15px 0;
- box-shadow: 0 0 10px 5px purple; }
- main {
+  text-align: center;
+  position: fixed;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 15px 0;
+  box-shadow: 0 0 10px 5px purple; }
+  main {
   width: 50%;
   padding-top: 40px;
   margin: 0 auto;
@@ -160,9 +166,16 @@
   padding-right: 15px;
   padding-left: 15px;
   padding-bottom: 15px; }
+  hr {
+  margin: 50px; }
 }
 
-@media all and (max-height: 500px), (max-width: 500px) {
+@media all and (max-width: 1000px) {
+ main {
+ width: 85%; }
+}
+
+@media all and (max-width: 500px) {
  html {
  font-size: 0.8em; }
  nav {
