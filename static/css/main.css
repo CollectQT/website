@@ -126,6 +126,7 @@
  box-shadow: 0 0 10px 5px purple; }
  main {
   width: 50%;
+  padding-top: 40px;
   margin: 0 auto;
   margin-bottom: 0; }
   article {
