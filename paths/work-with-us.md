@@ -1,6 +1,10 @@
 # Work with CollectQT!
 
-<br/>
+This page exists to desribe all the requirements one would need to work with CollectQT, but not every needs to meet all the requirements. Specifically, it works like so:
+
+* If you want to **join CollectQT as a worker owner**, everything on this page applies to you, and you should definitely go through all of it
+* If you want to do **contract work** for CollectQT, you don't need to read so hard into the culture, but need to be very sure of your professional skills
+* If you want to **volunteer** for CollectQT, first you should know that CollectQT, while it is very much engaged in activism, is incorporated as an LLC and not a nonprofit. Given that, it's probably more important that you know about our culture.
 
 ## CollectQT Culture
 
@@ -12,19 +16,7 @@ We at CollectQT are creating **our own definition of a professional** work envir
 * the failings of any and every type of **respectability politics**
 * how the **normative workplace culture** excludes and marginalizes disabled people for reasons that have nothing to do with their capacity to work
 
-Because of the things we discuss, its **extremely important** to understand the culture and emotions your QT peers. It's up to everyone in CollectQT to communicate your own boundaries / triggers as well as be aware of people's boundaries / triggers, and quickly apologize and potentially take a conversation to another channel when needed.
-
-## Perks of being a part of CollectQT
-
-So by now, you're asking yourself, "Okay, CollectQT, this all sounds great, but why do I want to join your team? What do I get out of it?"
-
-The perks of working with CollectQT are...
-
-* Being able to use CollectQT **platforms to host / boost** your stuff!
-* **A team** full of a variety of skills to help you on your projects
-* **A deciding vote** on CollectQT decisions
-* When we incorporate, it will be as a coop and QTCs will all be **owners / workers**
-* Once CollectQT is funded, all QTCs are paid **an equal percent** of our funds
+Because of the things we discuss, its **extremely important** to understand the culture and emotions of your QT peers. It's up to everyone in CollectQT to communicate your own boundaries / triggers as well as be aware of people's boundaries / triggers, and quickly apologize and potentially take a conversation to another channel when needed.
 
 ## Who We are Seeking
 
@@ -33,15 +25,14 @@ Does our team sound like something you want to be a part of? Are you interested,
 ### Broadly, we want these kinds of people:
 
 * **Queer-trans people**
-* People **aligned with our culture** (you'll be submitting a "cultural resume")
+* People **aligned with our culture** (you might be submitting a "cultural resume")
 * **Self starters / self motivated workers**, people who do not need to be constantly reminded to work on things
 * **Generalists**, people who are comfortable accepting a wide variety of tasks (as opposed to tasks specific to the job function)
 * **Organizers / project managers**, people who are comfortable managing and directing the work of others
 
 ### But specifically you should be one of these:
 
-* **python web developer** (have at least 1 year of experience working with web developement in any capacity, educational or otherwise)
-* **web designer** (have at least 1 year of experience working with web design in any capacity, educational or otherwise)
+* **<img alt='python icon' src='http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png' style="width:20px;height:20px;">Python Web Developer** have worked on writing python code for a web developement backend. Particularly code that interacts with [a database](https://gitlab.com/collectqt/quirell/tree/develop/quirell/database)
 
 CollectQT acknowledges that being Queer and Trans is closely tied with the sex work community and homelessness. Many QTies are forced into sex work in order to get out of homelessness, to avoid homelessness, or sometimes sex work is the cause of becoming homeless due to whorephobia. Because of this close tie **CollectQT gives hiring preference to those who have been, or currently are a sex worker or homeless** if there are two equally qualified applicants.
 
@@ -49,11 +40,7 @@ CollectQT acknowledges that being Queer and Trans is closely tied with the sex w
 
 The application process for CollectQT is still being worked on, but if you know any of the current members of CollectQT, give them a **"work resume"** + **"cultural resume"** and some **social media** links. Everyone who applies to CollectQT gets voted on by the other members, so the process might take quite some time.
 
-<br/>
-
 ---
-
-<br/>
 
 ## Definition: Cultural Resume
 

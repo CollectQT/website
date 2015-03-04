@@ -28,21 +28,7 @@ Advocacy that prioritizes the actual people experiencing the oppression. **Black
 
 **'Allies'** are minions around here. Still working on the exact terminology but the basic concept is that ally-ship based upon race / gender / sexuality always works in such a way that the "ally" has power over the person in the group (because of systematic oppression). To help counter that structural force, allies shall be denoted as minions (or some variant there-of)
 
-## Politics
-
-We want to say our 'politics are intersectional' but saying that has no use if we don't specifically denote what intersections and systems we actively are aware of, those being:
-
-* **whorephobia / slutshaming** - Sex is not a bad or shameful thing to have, and sex work is work just as much as being a cashier is work
-* **capitalism** - An economic system wherein the means of production are largely privately owned. Capitalism is inherently oppressive.
-* **transphobia** - Fear or hate of trans people
-* **ableism** - Discrimination due to ability / disability
-* **racism** - Systematic oppression whose basis is race.
-* **misogyny** - Discrimination against women
-* **transmisogyny** - Transphobia as applied to women, or misogyny as applied to trans people
-
 ## The Team!
-
-<h3 class='center_text'>QTBuilders</h3>
 
 * **Lynn (she / her) // [@lynnmagic](https://twitter.com/LynnMagic)**
     * Founder
@@ -50,14 +36,6 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Python Programmer
     * Programming (game, web)
     * Writer
-* **Joanna (she / her) // [@MsBlackhart](https://twitter.com/MsBlackhart)**
-    * Public Relations
-    * Music / Sound Effects
-    * Quality Assurance / Testing
-    * Tech Support
-
-<h3 class='center_text'>QTCollectors</h3>
-
 * **Ophelia (they / their) // [@NoIamOpheliaRly](https://twitter.com/NoImOpheliaRly)**
     * Writing
     * Advertising
@@ -70,22 +48,27 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Public Relations
     * Organizing
     * [Writing Queer Book !!!](http://ckoliver.com/embers)
-* **Annie Mei (she / her) or (they / their) // [@annie_mei_shen] (https://twitter.com/annie_mei_shen)**
+* **Annie Mei (she / her) or (they / their) // [@annie_mei_shen](https://twitter.com/annie_mei_shen)**
     * Writer
     * Researcher
     * Design
     * Culinary Artist
+* **Joanna (she / her) // [@MsBlackhart](https://twitter.com/MsBlackhart)**
+    * Public Relations
+    * Music / Sound Effects
+    * Quality Assurance / Testing
+    * Tech Support
 
 ## [Help Needed!](http://collectqt.me/work-with-us)
 
-Unless **explicitly** stated otherwise, people who are just learning or at **entry level** are always welcome! People we need **now**:
+Unless **explicitly** stated otherwise, people who are just learning or at **entry level** are always welcome! Here are the general types of people that we need:
 
 * **Writers:** People to help write documents (like this one!)
 * **Organizers:** People willing to help organize our efforts
 * **Artists:** CollectQT needs iconography! And style!
 * **Developers:** Computerers of all sorts
 
-[For more about working with us, go to the "Work With Us!" page](http://collectqt.me/work-with-us)
+For more about working with us, [click here go to the "Work With Us!" page](http://collectqt.me/work-with-us)
 
 ## Inspirations
 
