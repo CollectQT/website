@@ -74,7 +74,7 @@
    list-style-type: square; }
 
    a {
-   cursor: inherit;
+   cursor: pointer;
    text-decoration: inherit;
    transition: color 0.33s; }
 

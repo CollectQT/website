@@ -13,7 +13,7 @@
 ## Our Members are Working On...
 
 * [A funding site for QTies and activists](http://gitlab.com/atunit/atunit/tree/develop)
-* [A safe and inclusive social network](http://https://gitlab.com/collectqt/quirell/issues)
+* [A safe and inclusive social network](https://gitlab.com/collectqt/quirell/issues)
 * [Bloobs!](http://collectqt.me/bloobs) for [Ruin Game Jam](http://itch.io/jam/ruinjam2014)
 * Finding more rad QTies (Maybe YOU!!!)
 * Building ties with other community organizations
@@ -70,6 +70,11 @@ We want to say our 'politics are intersectional' but saying that has no use if w
     * Public Relations
     * Organizing
     * [Writing Queer Book !!!](http://ckoliver.com/embers)
+* **Annie Mei (she / her) or (they / their) // [@annie_mei_shen] (https://twitter.com/annie_mei_shen)**
+    * Writer
+    * Researcher
+    * Design
+    * Culinary Artist
 
 ## [Help Needed!](http://collectqt.me/work-with-us)
 
