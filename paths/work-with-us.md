@@ -4,7 +4,7 @@ This page exists to desribe all the requirements one would need to work with Col
 
 * If you want to **join CollectQT as a worker owner**, everything on this page applies to you, and you should definitely go through all of it
 * If you want to do **contract work** for CollectQT, you don't need to read so hard into the culture, but need to be very sure of your professional skills
-* If you want to **volunteer** for CollectQT, first you should know that CollectQT, while it is very much engaged in activism, is incorporated as an LLC and not a nonprofit. Given that, it's probably more important that you know about our culture.
+* If you want to **volunteer** for CollectQT, first you should know that CollectQT, while it is very much engaged in activism, is incorporated as an LLC and not a nonprofit. We don't need any particular qualifications from volunteers (professional or cultural), feel free to volunteer for as a way to break into a career / cultural sphere.
 
 ## CollectQT Culture
 
