@@ -1,0 +1,19 @@
+## Artist needed for Logo/Rebranding for "Collect QT" and "Quirell"
+
+This page describes a contract for art assets. For general information about working with us, see [the Work With Us page](/work-with-us).
+<br> <br> CollectQT has need for an artist to produce the following assets:
+
+* The following pictures as PNG files
+    * CollectQT logo and Quirell logo
+    * CollectQT banner and Quirell banner (300px by 600px)
+    * Favicons for both Collect QT and Quirell (32px by 32px)
+* The following social media icons for Quirell as PNG and SVG files. (examples: http://www.flaticon.com/free-icon/multiple-users-silhouette_33308)
+    * User
+    * Follow / Unfollow (basically the user icon with a + or a -)
+    * Boost / Reblog / Share
+    * Like / Favorite / Heart
+    * Reply
+    * Notifications / Notes / Alerts
+    * Messages / Chat (a chat bubble)
+    * Home (a home)
+    * Settings (a gear)
