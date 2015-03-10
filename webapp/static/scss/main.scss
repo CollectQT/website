@@ -66,6 +66,10 @@ h1, h2, h3, h4, h5, .heading {
     text-shadow: 0 0 0.1em purple;
 }
 
+h1, h2 {
+    text-align: center;
+}
+
 html, body, .texture {
     padding: 0;
     margin: 0;
