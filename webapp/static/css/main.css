@@ -29,14 +29,14 @@
                   .no_flair {
                     text-shadow: none; }
 
-                    h1, h2, h3, h4, h5, p, .heading {
+                    h1, h2, h3, h4, h5, p {
                       -webkit-margin-before: 0;
                       -webkit-margin-after: 0;
                       margin-top: 0;
                       margin-bottom: 0;
                       color: black; }
 
-                      h1, h2, h3, h4, h5, .heading {
+                      h1, h2, h3, h4, h5 {
                         line-height: 1.3em;
                         font-family: "Press Start 2P", monospace;
                         text-shadow: 0 0 0.1em purple; }
@@ -61,45 +61,56 @@
                                 z-index: -1;
                                 opacity: 0.8; }
 
-                                nav, footer, article {
-                                  background-color: white; }
+                                nav {
+                                  background-color: white;
+                                  text-align: center;
+                                  box-shadow: 0 0 10px 0 black; }
 
-                                  main {
-                                    display: table;
-                                    list-style-type: none; }
+                                  nav > * {
+                                    display: block; }
 
-                                    p, blockquote, ul {
-                                      font-family: "Ubuntu Mono", sans-serif;
-                                      line-height: 1.1em; }
+                                    .nav-menu > * {
+                                      display: block; }
 
-                                      ul {
-                                        list-style-type: square; }
+                                      article {
+                                        background-color: white; }
 
-                                        a {
-                                          cursor: pointer;
-                                          text-decoration: inherit;
-                                          transition: color 0.33s; }
+                                        main {
+                                          display: table;
+                                          list-style-type: none; }
 
-                                          main a {
-                                            color: purple; }
+                                          p, blockquote, ul {
+                                            font-family: "Ubuntu Mono", sans-serif;
+                                            line-height: 1.1em; }
 
-                                            main a:hover {
-                                              color: orange; }
+                                            ul {
+                                              list-style-type: square; }
 
-                                              nav button {
-                                                position: relative;
-                                                display: block;
-                                                opacity: 0.7;
-                                                border: none;
-                                                text-align: right;
-                                                background-color: purple;
-                                                transition: color 0.5s, background-color 0.5s; }
-                                                nav button:hover {
-                                                  color: white;
-                                                  background-color: black; }
-                                                  nav button:active {
-                                                    color: black;
-                                                    background-color: white; }
+                                              a {
+                                                cursor: pointer;
+                                                text-decoration: inherit;
+                                                transition: color 0.33s; }
+
+                                                main a {
+                                                  color: purple; }
+
+                                                  main a:hover {
+                                                    color: orange; }
+
+                                                    nav button {
+                                                      font-size: 0.8em;
+                                                      border: none;
+                                                      color: white;
+                                                      background-color: purple;
+                                                      transition: color 0.5s, background-color 0.5s, padding 0.5s; }
+                                                      nav button:hover {
+                                                        color: black;
+                                                        background-color: orange;
+                                                        padding-left: 30px;
+                                                        padding-right: 10px; }
+                                                        nav button:active {
+                                                          color: white;
+                                                          background-color: black; }
 
 hr {
   border: none;
@@ -110,86 +121,89 @@ hr {
   .heading {
     font-family: "Press Start 2P", monospace; }
 
-    .heading_small {
-      font-size: 1.5em; }
+    .content {
+      font-family: "Ubuntu Mono", sans-serif; }
 
-      .heading_large {
-        font-size: 2em; }
+      .logo-large {
+        height: 100px; }
 
-        .content {
-          font-family: "Ubuntu Mono", sans-serif; }
+        .logo-small {
+          height: 50px; }
 
-          .logo-large {
-            height: 100px; }
-
-            .logo-small {
-              height: 50px; }
-
-              @media all {
-                nav {
-                  text-align: center;
-                  position: fixed;
-                  box-sizing: border-box;
-                  width: 100%;
-                  padding: 15px 0;
-                  box-shadow: 0 0 10px 5px purple;   }
-                  main {
-                    width: 50%;
-                    padding-top: 40px;
-                    margin: 0 auto;
-                    margin-bottom: 0;   }
-                    article {
-                      padding-top: 60px;
-                      padding-left: 15px;
-                      padding-right: 15px;
-                      box-shadow: 0 0 10px 0 black;   }
-                      footer {
-                        padding: 20px 10%;
-                        box-shadow: 0 0 6px 3px purple;   }
-                        p {
+          @media all {
+            nav {
+              padding-top: 30px;
+              width: 25%;
+              height: 100%;
+              position: fixed;   }
+              nav h1 {
+                font-size: 1.6em;
+                margin-bottom: 15px;   }
+                nav i {
+                  font-size: 1em;
+                  padding: 5px;   }
+                  .nav-menu {
+                    margin-top: 15px;
+                    text-align: left;   }
+                    nav button {
+                      margin-bottom: 10px;
+                      padding-left: 20px;
+                      padding-top: 5px;
+                      padding-bottom: 5px;   }
+                      .nav-category {
+                        width: 100%;
+                        text-align: center;
+                        padding: 10px;
+                        margin-top: 5px;
+                        margin-bottom: 5px;
+                        background-color: rgba(0, 0, 0, 0.2);
+                        box-sizing: border-box;   }
+                        main {
                           margin-top: 15px;
-                          margin-bottom: 10px;
-                          margin-left: 25px;
-                          margin-right: 25px;
-                          padding-right: 15px;
-                          padding-left: 15px;
-                          padding-top: 10px;
-                          padding-bottom: 15px;   }
-                          blockquote {
-                            margin-left: 60px;
-                            margin-right: 60px;
-                            padding-right: 15px;
-                            padding-left: 15px;
+                          margin-right: 30px;
+                          width: 65%;
+                          position: absolute;
+                          right: 0;   }
+                          article {
                             padding-top: 10px;
-                            padding-bottom: 15px;
-                            font-style: italic;   }
-                            ul {
+                            box-shadow: 0 0 10px 0 black;   }
+                            p {
+                              margin-top: 15px;
+                              margin-bottom: 10px;
                               margin-left: 25px;
                               margin-right: 25px;
                               padding-right: 15px;
                               padding-left: 15px;
+                              padding-top: 10px;
                               padding-bottom: 15px;   }
-                              hr {
-                                margin: 50px;   }
+                              blockquote {
+                                margin-left: 60px;
+                                margin-right: 60px;
+                                padding-right: 15px;
+                                padding-left: 15px;
+                                padding-top: 10px;
+                                padding-bottom: 15px;
+                                font-style: italic;   }
+                                ul {
+                                  margin-left: 25px;
+                                  margin-right: 25px;
+                                  padding-right: 15px;
+                                  padding-left: 15px;
+                                  padding-bottom: 15px;   }
+                                  hr {
+                                    margin: 50px;   }
 }
 
 @media all and (max-width: 1000px) {
-  main {
-    width: 85%;   }
+  nav {
+    width: 35%;   }
+    main {
+      width: 55%;   }
 }
 
 @media all and (max-width: 500px) {
   html {
     font-size: 0.8em;   }
-    main {
-      width: 90%;   }
-      footer {
-        padding: 15px 10%;   }
-        p {
-          margin-top: 5px;
-          margin-bottom: 0;
-          margin-left: 20px;
-          margin-right: 20px;   }
 }
 
 .fa-linkedin {
@@ -210,9 +224,6 @@ hr {
           .fa-rss-square {
             color: orange; }
 
-            .fa {
-              font-size: 1.5em; }
-
-              .twitter-tweet {
-                margin-left: auto !important;
-                margin-right: auto !important; }
+            .twitter-tweet {
+              margin-left: auto !important;
+              margin-right: auto !important; }
