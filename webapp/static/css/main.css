@@ -37,7 +37,7 @@
                       color: black; }
 
                       h1, h2, h3, h4, h5 {
-                        line-height: 1.3em;
+                        line-height: 1.6em;
                         font-family: "Press Start 2P", monospace;
                         text-shadow: 0 0 0.1em purple;
                         margin-top: 5px;
@@ -81,7 +81,7 @@
 
                                         p, blockquote, ul {
                                           font-family: "Ubuntu Mono", sans-serif;
-                                          line-height: 1.1em; }
+                                          line-height: 1.25em; }
 
                                           ul {
                                             list-style-type: square; }
@@ -169,7 +169,7 @@ hr {
                           position: absolute;
                           right: 0;   }
                           article {
-                            padding: 10px;
+                            padding: 20px;
                             box-shadow: 0 0 10px 0 black;   }
                             p {
                               margin-top: 15px;
@@ -185,13 +185,12 @@ hr {
                                 padding-bottom: 15px;
                                 font-style: italic;   }
                                 ul {
-                                  margin-left: 25px;
-                                  margin-right: 25px;
-                                  padding-right: 15px;
-                                  padding-left: 15px;
-                                  padding-bottom: 15px;   }
-                                  hr {
-                                    margin: 50px;   }
+                                  margin: 25px 0;
+                                  padding: 15px 0;   }
+                                  li {
+                                    padding: 5px 0;   }
+                                    hr {
+                                      margin: 50px;   }
 }
 
 @media all and (max-width: 1000px) {
