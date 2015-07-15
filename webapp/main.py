@@ -66,11 +66,13 @@ def monitor_css():
     build_css()
 
 def readfile(path):
+    filepath = DIR+'/templates/posts/'+path
     try:
-        with open(DIR+'/templates/posts/'+path, 'r') as f:
+        with open(filepath, 'r') as f:
             text = flask.Markup(f.read())
         return text
     except IOError:
+        print('no file with path {}'.format(filepath))
         return flask.abort(404)
 
 if os.environ.get('DEBUG', False):
@@ -87,10 +89,11 @@ def index ():
 @app.route('/<path>')
 def dynamic (path):
     try:
-        paths = glob(DIR+'/templates/paths/'+path+'*')
+        paths = glob(DIR+'/templates/posts/'+path+'*')
         filename = min(paths, key=len).split('/')[-1]
         return flask.render_template('base.jade', post=readfile(filename))
     except ValueError:
+        print('no files with path {}'.format(path))
         return flask.abort(404)
 
 @app.route('/static/<path:filename>')
