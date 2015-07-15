@@ -1,0 +1,26 @@
+doctype html
+html(lang="en")
+    head
+        block head
+            include head.html
+    body
+        block navigation
+            include nav.jade
+        block body
+            .container-fluid
+                .row
+                    main.col-sm-8
+                        if posts
+                            for post in posts
+                                article
+                                    = post
+                        if post
+                            article
+                                = post
+                    aside.col-sm-3.col-sm-offset-1
+                        include sidebar.jade
+        footer
+            p Collectqt.me
+            p: a(href='#') Back to top
+        block footer
+            include footer.html

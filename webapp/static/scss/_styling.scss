@@ -1,0 +1,113 @@
+.heading {font-family: $title_font;}
+.content {font-family: $body_font}
+
+.logo-large {height:100px;}
+.logo-small {height:50px;}
+
+body {
+    background-color: gray;
+    overflow-x: hidden;
+    background-image: $texture;
+    font-family: $title_font;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+ul, p {
+    font-family: $body_font;
+}
+
+h1, h2, h3, h4, h5 {
+    line-height: 1.6em;
+    font-family: $title_font;
+    font-weight: bold;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+nav {
+    box-shadow: 0 0 10px 0 black;
+
+    img {
+        height: 50px;
+    }
+
+    .navbar-brand {
+        padding: 0 15px;
+    }
+}
+
+article, aside {
+    background-color: $color_primary;
+}
+
+ul {
+    list-style-type: square;
+}
+
+//effects
+
+a {
+    cursor: pointer;
+    text-decoration: inherit;
+    transition: color 0.33s;
+}
+
+main a {color: $color_secondary}
+main a:hover {color: $accent_color;}
+
+// nav .button {
+//     display: inline-block;
+//     white-space: normal;
+//     font-size: 0.80em;
+//     border: none;
+//     color: $color_primary;
+//     background-color: $color_secondary;
+//     transition: color 0.5s, background-color 0.5s, padding 0.5s;
+//     &:hover {
+//         color: black;
+//         background-color: $accent_color;
+//         padding-left: 30px;
+//         padding-right: 10px;
+//     }
+//     &:active {
+//         color: $color_primary;
+//         background-color: black;
+//     }
+// }
+
+aside {
+    overflow: hidden;
+    img {height: 1.4em;}
+
+    .apprenticeship {
+        height: 75px;
+        width: 150px;
+        box-shadow: 4px 4px 9px lightgrey;
+    }
+
+    .sidebar-icon {
+        margin: 0 auto;
+        text-align: center;
+        img {height: 150px;}
+    }
+}
+
+article {
+    box-shadow: 5px 3px 3px 3px $color_shadow;
+}
+
+hr {
+    border: none;
+    background-color: $color_secondary;
+    color: $color_secondary;
+    height: 2px;
+}
+
+footer {
+    background-color: $color_primary;
+    text-align: center;
+    box-shadow: 5px 3px 3px 3px $color_shadow;
+}

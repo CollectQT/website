@@ -1,223 +1,166 @@
-.visible {
-  opacity: 1; }
+.heading {
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-  .invisible {
-    opacity: 0; }
+  .content {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-    .inline {
-      display: inline; }
+    .logo-large {
+      height: 100px; }
 
-      .block {
-        display: block; }
+      .logo-small {
+        height: 50px; }
 
-        .none {
-          display: none; }
+        body {
+          background-color: gray;
+          overflow-x: hidden;
+          background-image: url(http://i.imgur.com/5NGuyjJ.png);
+          font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 16px;
+          line-height: 1.5; }
 
-          .positionAbsolute {
-            position: absolute; }
+          ul, p {
+            font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-            .positionStatic {
-              position: static; }
+            h1, h2, h3, h4, h5 {
+              line-height: 1.6em;
+              font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+              font-weight: bold; }
 
-              .center {
-                margin-left: auto;
-                margin-right: auto; }
+              h1, h2 {
+                text-align: center; }
 
-                .center_text {
+                nav {
+                  box-shadow: 0 0 10px 0 black; }
+                  nav img {
+                    height: 50px; }
+                    nav .navbar-brand {
+                      padding: 0 15px; }
+
+article, aside {
+  background-color: #fff; }
+
+  ul {
+    list-style-type: square; }
+
+    a {
+      cursor: pointer;
+      text-decoration: inherit;
+      transition: color 0.33s; }
+
+      main a {
+        color: purple; }
+
+        main a:hover {
+          color: orange; }
+
+          aside {
+            overflow: hidden; }
+            aside img {
+              height: 1.4em; }
+              aside .apprenticeship {
+                height: 75px;
+                width: 150px;
+                box-shadow: 4px 4px 9px lightgrey; }
+                aside .sidebar-icon {
+                  margin: 0 auto;
                   text-align: center; }
+                  aside .sidebar-icon img {
+                    height: 150px; }
 
-                  .no_flair {
-                    text-shadow: none; }
+article {
+  box-shadow: 5px 3px 3px 3px rgba(0, 0, 0, 0.1); }
 
-                    h1, h2, h3, h4, h5, p {
-                      -webkit-margin-before: 0;
-                      -webkit-margin-after: 0;
-                      margin-top: 0;
-                      margin-bottom: 0;
-                      color: black; }
+  hr {
+    border: none;
+    background-color: purple;
+    color: purple;
+    height: 2px; }
 
-                      h1, h2, h3, h4, h5 {
-                        line-height: 1.6em;
-                        font-family: "Press Start 2P", monospace;
-                        text-shadow: 0 0 0.1em purple;
-                        margin-top: 5px;
-                        margin-bottom: 5px; }
+    footer {
+      background-color: #fff;
+      text-align: center;
+      box-shadow: 5px 3px 3px 3px rgba(0, 0, 0, 0.1); }
+body {
+  padding-top: 80px; }
+  body .container {
+    padding: 0; }
 
-                        h1, h2 {
-                          text-align: center; }
+h1, h2, h3, h4, h5 {
+  margin-top: 5px;
+  margin-bottom: 5px; }
 
-                          html, body, .texture {
-                            padding: 0;
-                            margin: 0;
-                            width: 100%;
-                            height: 100%; }
+  aside.col-sm-3 {
+    padding: 10px 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px; }
+    aside.col-sm-3 .sidebar-module-about {
+      margin: -15px -20px;
+      padding: 15px 20px;
+      background-color: rgba(0, 0, 0, 0.02); }
+      aside.col-sm-3 h3, aside.col-sm-3 h4 {
+        margin: 10px -15px 10px;
+        padding: 0 15px; }
+        aside.col-sm-3 ol {
+          padding: 0 0 20px; }
+          aside.col-sm-3 li {
+            margin: 5px 0;
+            padding-left: 10px; }
+            aside.col-sm-3 li .fa {
+              margin: 0 10px 0 0; }
+              aside.col-sm-3 li img {
+                margin: 0 3px 0 0; }
 
-                            body {
-                              background-color: white;
-                              overflow-x: hidden;
-                              font-family: "Press Start 2P", monospace; }
+main article:first-child {
+  margin-top: 0px; }
 
-                              .body_texture {
-                                position: fixed;
-                                background-image: url(http://i.imgur.com/5NGuyjJ.png);
-                                z-index: -1;
-                                opacity: 0.8; }
+article {
+  margin: 40px 0;
+  border-width: 5px;
+  padding: 10px 40px;
+  border-radius: 20px; }
+  article h3 {
+    padding: 10px 35px;
+    margin: -15px -40px 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    line-height: 1.5em; }
+    article h4 {
+      padding: 5px;
+      line-height: 1.5em; }
+      article blockquote {
+        border-left: 5px solid purple; }
+        article img {
+          padding: 0 50px;
+          height: 200px;
+          max-width: 100%;
+          max-height: 100%; }
 
-                                nav {
-                                  overflow-y: auto;
-                                  background-color: white;
-                                  text-align: center;
-                                  box-shadow: 0 0 10px 0 black; }
+footer {
+  padding: 30px 0; }
+  footer p:last-child {
+    margin-bottom: 0; }
 
-                                  .submenu {
-                                    white-space: nowrap; }
-
-                                    article {
-                                      background-color: white; }
-
-                                      main {
-                                        display: table;
-                                        list-style-type: none; }
-
-                                        p, blockquote, ul {
-                                          font-family: "Ubuntu Mono", sans-serif;
-                                          line-height: 1.25em; }
-
-                                          ul {
-                                            list-style-type: square; }
-
-                                            a {
-                                              cursor: pointer;
-                                              text-decoration: inherit;
-                                              transition: color 0.33s; }
-
-                                              main a {
-                                                color: purple; }
-
-                                                main a:hover {
-                                                  color: orange; }
-
-                                                  nav .button {
-                                                    display: inline-block;
-                                                    white-space: normal;
-                                                    font-size: 0.8em;
-                                                    border: none;
-                                                    color: white;
-                                                    background-color: purple;
-                                                    transition: color 0.5s, background-color 0.5s, padding 0.5s; }
-                                                    nav .button:hover {
-                                                      color: black;
-                                                      background-color: orange;
-                                                      padding-left: 30px;
-                                                      padding-right: 10px; }
-                                                      nav .button:active {
-                                                        color: white;
-                                                        background-color: black; }
-
-hr {
-  border: none;
-  background-color: purple;
-  color: purple;
-  height: 2px; }
-
-  .heading {
-    font-family: "Press Start 2P", monospace; }
-
-    .content {
-      font-family: "Ubuntu Mono", sans-serif; }
-
-      .logo-large {
-        height: 100px; }
-
-        .logo-small {
-          height: 50px; }
-
-          @media all {
-            nav {
-              padding-top: 10px;
-              width: 22%;
-              height: 100%;
-              position: fixed;   }
-              nav h1 {
-                font-size: 1.3em;
-                margin-bottom: 15px;   }
-                nav i {
-                  font-size: 1em;
-                  padding: 5px;   }
-                  .nav-menu {
-                    margin-top: 15px;
-                    text-align: left;   }
-                    nav .button {
-                      margin-top: 5px;
-                      margin-bottom: 5px;
-                      padding-left: 20px;
-                      padding-right: 15px;
-                      padding-top: 5px;
-                      padding-bottom: 5px;   }
-                      .nav-category {
-                        width: 100%;
-                        text-align: center;
-                        padding: 5px;
-                        margin-top: 5px;
-                        margin-bottom: 5px;
-                        background-color: rgba(0, 0, 0, 0.2);
-                        box-sizing: border-box;   }
-                        main {
-                          margin-top: 15px;
-                          margin-right: 12.5%;
-                          width: 50%;
-                          position: absolute;
-                          right: 0;   }
-                          article {
-                            padding: 20px;
-                            box-shadow: 0 0 10px 0 black;   }
-                            p {
-                              margin-top: 15px;
-                              margin-bottom: 10px;
-                              margin-left: 25px;
-                              margin-right: 25px;   }
-                              blockquote {
-                                margin-left: 60px;
-                                margin-right: 60px;
-                                padding-right: 15px;
-                                padding-left: 15px;
-                                padding-top: 10px;
-                                padding-bottom: 15px;
-                                font-style: italic;   }
-                                ul {
-                                  margin: 0 25px;
-                                  padding: 0 15px;   }
-                                  li {
-                                    padding: 5px 0;   }
-                                    hr {
-                                      margin: 50px;   }
+@media all and (max-width: 768px) {
+  body {
+    font-size: 1.6em;
+    padding-top: 50px;   }
+    nav {
+      font-size: 1.2em;   }
+      main.col-sm-8 {
+        padding: 0;   }
+        aside.col-sm-3, article {
+          border-radius: 0;   }
+          aside.col-sm-3 {
+            padding-left: 35px;
+            padding-right: 35px;   }
+            .sidebar-module-about {
+              margin-left: -35px;
+              margin-right: -35px;
+              padding-left: 35px;
+              padding-right: 35px;   }
+              article img {
+                height: 100px;   }
 }
-
-@media all and (max-width: 1000px) {
-  nav {
-    width: 35%;   }
-    main {
-      width: 55%;
-      margin-right: 30px;   }
-}
-
-@media all and (max-width: 500px) {
-  .extra {
-    display: none;   }
-    html {
-      font-size: 0.8em;   }
-      nav {
-        margin-top: 15px;
-        padding-top: 15px;
-        width: 100%;
-        height: auto;
-        position: static;   }
-        main {
-          margin: 0;
-          width: 100%;
-          position: static;   }
-}
-
 .fa-linkedin {
   color: #4875B4; }
 

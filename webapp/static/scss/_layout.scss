@@ -1,0 +1,133 @@
+body {
+    padding-top: 80px;
+
+    .container {
+        padding: 0;
+    }
+}
+
+h1, h2, h3, h4, h5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+aside.col-sm-3 {
+
+    padding: 10px 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+    .sidebar-module-about {
+        margin: -15px -20px;
+        padding: 15px 20px;
+        background-color: rgba(0,0,0,0.02);
+    }
+
+    h3, h4 {
+        margin: 10px -15px 10px;
+        padding: 0 15px;
+    }
+
+    ol {
+        padding: 0 0 20px
+    }
+
+    li {
+        margin: 5px 0;
+        padding-left: 10px;
+
+        .fa {
+            margin: 0 10px 0 0;
+        }
+
+        img {
+            margin: 0 3px 0 0;
+        }
+    }
+}
+
+main {
+    article:first-child {
+        margin-top: 0px;
+    }
+}
+
+article {
+    $article-x-padding: 40px;
+    $article-y-padding: 10px;
+    $article-border-width: 5px;
+
+    margin: 40px 0;
+    border-width: $article-border-width;
+    padding: $article-y-padding $article-x-padding;
+    border-radius: 20px;
+
+    h3 {
+        padding: 10px 35px;
+        margin: (-$article-y-padding - $article-border-width) (-$article-x-padding) 0;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        line-height: 1.5em;
+    }
+
+    h4 {
+        padding: 5px;
+        line-height: 1.5em;
+    }
+
+    blockquote {
+        border-left: 5px solid $color_secondary;
+    }
+
+    img {
+        padding: 0 50px;
+        height: 200px;
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
+
+footer {
+    padding: 30px 0;
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+@media all and (max-width: 768px) {
+    body {
+        font-size: 1.6em;
+        padding-top: 50px;
+    }
+
+    nav {
+        font-size: 1.2em;
+    }
+
+    main.col-sm-8 {
+        padding: 0;
+    }
+
+    aside.col-sm-3, article {
+        border-radius: 0;
+    }
+
+    $aside-padding: 35px;
+
+    aside.col-sm-3 {
+        padding-left: $aside-padding;
+        padding-right: $aside-padding;
+    }
+
+    .sidebar-module-about {
+        margin-left: -$aside-padding;
+        margin-right: -$aside-padding;
+        padding-left: $aside-padding;
+        padding-right: $aside-padding;
+    }
+
+    article img {
+        height: 100px;
+    }
+}
