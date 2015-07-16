@@ -13,18 +13,20 @@ h1, h2, h3, h4, h5 {
 
 aside.col-sm-3 {
 
-    padding: 10px 20px;
+    $aside-padding: 20px;
+
+    padding: 10px $aside-padding;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 
     .sidebar-module-about {
-        margin: -15px -20px;
-        padding: 15px 20px;
+        margin: -$aside-padding -$aside-padding;
+        padding: 15px $aside-padding;
         background-color: rgba(0,0,0,0.02);
     }
 
     h3, h4 {
-        margin: 10px -15px 10px;
+        margin: 10px -$aside-padding 10px;
         padding: 0 15px;
     }
 
@@ -40,8 +42,8 @@ aside.col-sm-3 {
             margin: 0 10px 0 0;
         }
 
-        img {
-            margin: 0 3px 0 0;
+        a>img {
+            margin: 0 6px 0 -4px;
         }
     }
 }
@@ -113,18 +115,23 @@ footer {
         border-radius: 0;
     }
 
-    $aside-padding: 35px;
+    $aside-padding-mobile: 35px;
 
     aside.col-sm-3 {
-        padding-left: $aside-padding;
-        padding-right: $aside-padding;
-    }
+        padding-left: $aside-padding-mobile;
+        padding-right: $aside-padding-mobile;
 
-    .sidebar-module-about {
-        margin-left: -$aside-padding;
-        margin-right: -$aside-padding;
-        padding-left: $aside-padding;
-        padding-right: $aside-padding;
+        .sidebar-module-about {
+            margin-left: -$aside-padding-mobile;
+            margin-right: -$aside-padding-mobile;
+            padding-left: $aside-padding-mobile;
+            padding-right: $aside-padding-mobile;
+        }
+
+        h3, h4 {
+            margin-left: -$aside-padding-mobile;
+            margin-right: -$aside-padding-mobile;
+        }
     }
 
     article img {

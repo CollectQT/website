@@ -82,10 +82,24 @@ aside {
     overflow: hidden;
     img {height: 1.4em;}
 
+    .brand-image {
+        margin: 0 0 25px 0;
+        text-align: center;
+
+        &>* {
+            box-shadow: 3px 3px 10px lightgrey;
+            padding: 5px;
+        }
+    }
+
     .apprenticeship {
         height: 75px;
         width: 150px;
-        box-shadow: 4px 4px 9px lightgrey;
+    }
+
+    .moorhensolutions {
+        height: 92px;
+        width: 150px;
     }
 
     .sidebar-icon {
@@ -93,6 +107,12 @@ aside {
         text-align: center;
         img {height: 150px;}
     }
+
+    h4 {
+        background-color: rgba(0,0,0,0.2);
+        text-align: center;
+    }
+
 }
 
 article {
