@@ -1,5 +1,13 @@
 # CollectQT Website
 
+Debug mode
+
+    python webapp/main.py
+
+Production mode
+
+    foreman start
+
 ## Installation
 
 ### OSX
