@@ -26,3 +26,6 @@ Production mode
 ## Cleanup
 
     autopep8 --in-place --aggressive --aggressive -r webapp/
+
+    npm install -g stylefmt
+    stylefmt -r webapp/static/scss/*

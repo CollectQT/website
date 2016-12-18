@@ -1,14 +1,18 @@
 language: python
 python:
-    - "3.5"
+  - "3.5"
 sudo: false
 cache:
     pip: true
+    npm: true
 branches:
   only:
     - "master"
 install:
-    - pip install -r requirements.txt
+  - pip install -r requirements.txt
+  - npm install stylelint
+  - npm install stylelint-config-standard --save-dev
 script:
-    - flake8 webapp/
-    - pytest
+  - flake8 webapp/
+  - pytest
+  # - stylelint webapp/static/scss/*

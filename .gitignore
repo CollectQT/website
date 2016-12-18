@@ -9,3 +9,6 @@ venv/
 main.css
 
 .cache/
+
+node_modules/
+npm-debug.log.*
