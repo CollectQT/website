@@ -1,15 +1,5 @@
 # CollectQT Website
 
-## Running
-
-Debug mode
-
-    python webapp/main.py
-
-Production mode
-
-    foreman start
-
 ## Installation
 
 ### OSX
@@ -22,6 +12,16 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python webapp/main.py
 ```
+
+## Running
+
+Debug mode
+
+    python webapp/main.py
+
+Production mode
+
+    foreman start
 
 ## Cleanup
 
