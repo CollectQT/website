@@ -81,3 +81,13 @@ def get_dynamic_path(path):
     paths = glob(DIR + '/templates/posts/' + path + '*')
     filename = min(paths, key=len).split('/')[-1]
     return filename
+
+
+def dated_url_for(endpoint, **values):
+    if endpoint == 'static':
+        filename = values.get('filename', None)
+        if filename:
+            file_path = os.path.join(DIR,
+                                     endpoint, filename)
+            values['q'] = int(os.stat(file_path).st_mtime)
+    return flask.url_for(endpoint, **values)
