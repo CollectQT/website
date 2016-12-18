@@ -11,6 +11,11 @@ import utils
 app = flask.Flask(__name__)
 
 
+@app.context_processor
+def override_url_for():
+    return dict(url_for=utils.dated_url_for)
+
+
 @app.before_first_request
 def setup_app():
     utils.setup(app)
