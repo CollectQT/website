@@ -7,3 +7,5 @@ venv/
 !null
 
 main.css
+
+.cache/
