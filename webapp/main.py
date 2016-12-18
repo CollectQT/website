@@ -1,3 +1,6 @@
+# builtin
+import os
+
 # external
 import flask
 
@@ -6,8 +9,11 @@ import utils
 
 
 app = flask.Flask(__name__)
-app = utils.setup(app)
 
+
+@app.before_first_request
+def setup_app():
+    utils.setup(app)
 
 @app.route('/')
 def index ():
@@ -31,4 +37,10 @@ def page_not_found(e):
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True, use_reloader=True)
+    os.environ['DEBUG'] = 'True'
+    app.run(
+        host='0.0.0.0',
+        port=os.environ.get('PORT', 5000),
+        debug=True,
+        use_reloader=True,
+    )

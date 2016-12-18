@@ -1,6 +1,7 @@
 # builtin
 import os
 from glob import glob
+from distutils.util import strtobool
 
 # external
 import scss
@@ -18,39 +19,39 @@ def setup(app):
     scss.config.LOAD_PATHS = [
         DIR+'/static/scss/',
     ]
-    if os.environ.get('DEBUG', False):
-        monitor_css()
-        monitor_markdown()
+    if strtobool(os.environ.get('DEBUG', 'False')):
+        monitor_content(build_css, '/static/scss/')
+        monitor_content(build_markdown, '/posts/')
     else:
         build_css()
         build_markdown()
-    return app
 
-def markdown(text):
-    return misaka.html(text,
-        extensions=misaka.EXT_LAX_HTML_BLOCKS | misaka.EXT_AUTOLINK)
+def monitor_content(builder, subdir):
+    # change monitor class
+    class ModifiedEventHandler (FileSystemEventHandler):
+        def on_modified (self, event):
+            print('change in {} detected'.format(subdir))
+            builder()
+    # activate change monitor
+    watch_dir = DIR+subdir
+    watch = Observer()
+    watch.schedule(ModifiedEventHandler(), watch_dir)
+    watch.start()
+    print('Watching {}'.format(watch_dir))
+    builder()
 
 def build_markdown():
     post_files = glob(DIR+'/posts/**')
     for post_file in post_files:
         with open(post_file, 'r') as f:
-            text = markdown(f.read())
+            text = misaka.html(
+                f.read(),
+                extensions=misaka.EXT_LAX_HTML_BLOCKS | misaka.EXT_AUTOLINK,
+            )
         filename = post_file.split('/')[-1]
         with open(DIR+'/templates/posts/'+filename, 'w') as f:
             f.write(text)
     print('creating posts')
-
-def monitor_markdown():
-    # change monitor class
-    class If_markdown_changes (FileSystemEventHandler):
-        def on_modified (self, event):
-            print('change in posts/ detected')
-            build_markdown()
-    # activate change monitor
-    watch = Observer()
-    watch.schedule(If_markdown_changes(), DIR+'/posts/')
-    watch.start()
-    build_markdown()
 
 def build_css():
     with open(DIR+'/static/scss/main.scss', 'r') as infile:
@@ -59,18 +60,6 @@ def build_css():
     with open(DIR+'/static/css/main.css', 'w') as outfile:
         outfile.write(compiled_css)
     print('created css')
-
-def monitor_css():
-    # change monitor class
-    class If_scss_changes (FileSystemEventHandler):
-        def on_modified (self, event):
-            print('change in static/scss/ detected')
-            build_css()
-    # activate change monitor
-    watch = Observer()
-    watch.schedule(If_scss_changes(), DIR+'/static/scss/')
-    watch.start()
-    build_css()
 
 def readfile(path):
     filepath = DIR+'/templates/posts/'+path
@@ -83,6 +72,6 @@ def readfile(path):
         return flask.abort(404)
 
 def get_dynamic_path(path):
-    paths = glob(utils.DIR+'/templates/posts/'+path+'*')
+    paths = glob(DIR+'/templates/posts/'+path+'*')
     filename = min(paths, key=len).split('/')[-1]
     return filename
