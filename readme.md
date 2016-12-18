@@ -27,5 +27,6 @@ Production mode
 
     autopep8 --in-place --aggressive --aggressive -r webapp/
 
-    npm install -g stylefmt
+    npm install -g stylelint stylefmt
+    npm install stylelint-config-standard --save-dev
     stylefmt -r webapp/static/scss/*
