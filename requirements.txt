@@ -16,3 +16,4 @@ PyYAML==3.12
 six==1.10.0
 watchdog==0.8.3
 Werkzeug==0.11.11
+autopep8==1.2.4

@@ -1,5 +1,7 @@
 # CollectQT Website
 
+## Running
+
 Debug mode
 
     python webapp/main.py
@@ -20,3 +22,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python webapp/main.py
 ```
+
+## Cleanup
+
+    autopep8 --in-place --aggressive --aggressive -r webapp/
