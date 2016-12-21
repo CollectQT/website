@@ -1,5 +1,5 @@
 .heading {
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "Palanquin", Arial, sans-serif; }
 
   .content {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
@@ -21,7 +21,7 @@
           background-image: linear-gradient(to top, #FFFFFF, #AC6BBF);
           background-image: linear-gradient(#AC6BBF, #FFFFFF);
           overflow-x: hidden;
-          font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-family: "Palanquin", Arial, sans-serif;
           font-size: 16px;
           line-height: 1.5; }
 
@@ -30,8 +30,8 @@
 
             h1, h2, h3, h4, h5 {
               line-height: 1.6em;
-              font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-              font-weight: bold; }
+              font-family: "Palanquin", Arial, sans-serif, 'Palanquin';
+              font-weight: 600; }
 
               h1, h2 {
                 text-align: center; }
@@ -42,6 +42,12 @@
                     height: 50px; }
                     nav .navbar-brand {
                       padding: 0 15px; }
+                      nav li {
+                        font-family: "Palanquin", Arial, sans-serif;
+                        font-size: 18px; }
+                        nav li:hover {
+                          border-bottom: 3px solid purple;
+                          transition-duration: 0.33s;}
 
 article, aside {
   background-color: #fff; }

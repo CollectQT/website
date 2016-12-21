@@ -46,8 +46,8 @@ ul, p {
 
 h1, h2, h3, h4, h5 {
     line-height: 1.6em;
-    font-family: $title_font;
-    font-weight: bold;
+    font-family: $title_font, 'Palanquin';
+    font-weight: 600;
 }
 
 h1, h2 {
@@ -63,6 +63,15 @@ nav {
 
     .navbar-brand {
         padding: 0 15px;
+    }
+    
+    li{
+        font-family: $title_font;
+        font-size: 18px;
+        &:hover {
+            border-bottom: 3px solid purple;
+        }
+        
     }
 }
 
