@@ -42,6 +42,12 @@
                     height: 50px; }
                     nav .navbar-brand {
                       padding: 0 15px; }
+                      nav li {
+                        font-family: "Palanquin", Arial, sans-serif;
+                        font-size: 18px; }
+                        nav li:hover {
+                          border-bottom: 3px solid purple;
+                          transition-duration: 0.33s;}
 
 article, aside {
   background-color: #fff; }
