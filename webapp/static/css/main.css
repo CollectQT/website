@@ -12,6 +12,13 @@
 
         body {
           background-color: #AC6BBF;
+          background-image: -ms-linear-gradient(bottom, #FFFFFF 0%, #AC6BBF 100%);
+          background-image: -moz-linear-gradient(bottom, #FFFFFF 0%, #AC6BBF 100%);
+          background-image: -o-linear-gradient(bottom, #FFFFFF 0%, #AC6BBF 100%);
+          background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #FFFFFF),
+                    color-stop(100, #AC6BBF));
+          background-image: -webkit-linear-gradient(bottom, #FFFFFF 0%, #AC6BBF 100%);
+          background-image: linear-gradient(to top, #FFFFFF, #AC6BBF);
           background-image: linear-gradient(#AC6BBF, #FFFFFF);
           overflow-x: hidden;
           font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -45,10 +52,11 @@ article, aside {
     a {
       cursor: pointer;
       text-decoration: inherit;
-      transition: color 0.33s; }
+      transition: color 0.33s;
+      color: #A833CC; }
 
       main a {
-        color: purple; }
+        color: #A833CC; }
 
         main a:hover {
           color: orange; }
@@ -83,8 +91,8 @@ article {
 
   hr {
     border: none;
-    background-color: purple;
-    color: purple;
+    background-color: #A833CC;
+    color: #A833CC;
     height: 2px; }
 
     footer {
@@ -142,7 +150,7 @@ article {
       padding: 5px;
       line-height: 1.5em; }
       article blockquote {
-        border-left: 5px solid purple; }
+        border-left: 5px solid #A833CC; }
         article img {
           padding: 0 50px;
           height: 200px;
