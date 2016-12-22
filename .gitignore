@@ -6,6 +6,8 @@ venv/
 
 !null
 
+main.css
+
 .cache/
 
 node_modules/
