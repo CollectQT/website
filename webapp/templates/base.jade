@@ -9,7 +9,7 @@ html(lang="en")
         block body
             .container-fluid
                 .row
-                    main.col-sm-7.col-sm-offset-1
+                    main.col-sm-8.col-sm-offset-2
                         if posts
                             for post in posts
                                 article
@@ -17,10 +17,8 @@ html(lang="en")
                         if post
                             article
                                 = post
-                    aside.col-sm-3.col-sm-offset-1
-                        include sidebar.jade
         footer
-            h4 Collectqt.me
-            h5: a(href='#') Back to top
+            h3 Collectqt.me
+            h4: a(href='#') Back to top
         block footer
             include footer.html
