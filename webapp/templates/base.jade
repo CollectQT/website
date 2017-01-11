@@ -18,7 +18,16 @@ html(lang="en")
                             article
                                 = post
         footer
-            h3 Collectqt.me
-            h4: a(href='#') Back to top
+            .container
+                .row
+                    h3 Sponsors 
+                    br
+                    .col-sm-4.col-sm-offset-2
+                      a(href='http://apprenticeship.community')
+                        .brand-image: img.apprenticeship(src='http://raw.githubusercontent.com/zincmade/apprenticeship.community/primary/design/words-small.png', alt='Apprenticeship Community')
+                    .col-sm-4
+                      a(href='http://www.moorhensolutions.co.uk/')
+                        .brand-image: img.moorhensolutions(src='http://www.moorhensolutions.co.uk/images/Moorhen-Solutions.png') 
+        include ftr_nav.jade
         block footer
             include footer.html

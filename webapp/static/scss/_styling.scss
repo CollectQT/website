@@ -165,9 +165,26 @@ hr {
     height: 2px;
 }
 
+.moorhensolutions, .apprenticeship {
+    width: 300px;
+    height: 200px;
+}
+
+.ftr_nav {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.patreon {
+    width: 20px;
+    height: 20px;
+}
+
 footer {
     color: $color_primary;
     text-align: center;
     box-shadow: 5px 3px 3px 3px $color_shadow;
     opacity: 50%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
