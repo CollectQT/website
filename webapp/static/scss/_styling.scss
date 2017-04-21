@@ -5,7 +5,35 @@
 .logo-small {height:50px;}
 
 body {
-    background-color: gray;
+    background-color: #AC6BBF; // Old browsers
+    //IE10 
+    background-image: -ms-linear-gradient(bottom, #FFFFFF 0%, #AC6BBF 100%);
+
+    // Mozilla Firefox  
+    background-image: -moz-linear-gradient(bottom, #FFFFFF 0%, #AC6BBF 100%);
+
+    // Opera 
+    background-image: -o-linear-gradient(bottom, #FFFFFF 0%, #AC6BBF 100%);
+
+    // Webkit (Safari/Chrome 10)
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #FFFFFF), color-stop(100, #AC6BBF));
+
+    // Webkit (Chrome 11+)
+    background-image: -webkit-linear-gradient(bottom, #FFFFFF 0%, #AC6BBF 100%);
+
+    // W3C Markup 
+    background-image: linear-gradient(to top, #FFFFFF 0%, #AC6BBF 100%); 
+    
+    @mixin linear-gradient($direction, $color-stops...) {
+      background: nth(nth($color-stops, 1), 1);
+      background: -webkit-linear-gradient(legacy-direction($direction), $color-stops);
+      background: linear-gradient($direction, $color-stops);
+    }
+    
+    background-image: linear-gradient(#AC6BBF, #FFFFFF);
+    
+    
+    
     overflow-x: hidden;
     font-family: $title_font;
     font-size: 16px;
@@ -18,8 +46,8 @@ ul, p {
 
 h1, h2, h3, h4, h5 {
     line-height: 1.6em;
-    font-family: $title_font;
-    font-weight: bold;
+    font-family: $title_font, 'Palanquin';
+    font-weight: 600;
 }
 
 h1, h2 {
@@ -35,6 +63,15 @@ nav {
 
     .navbar-brand {
         padding: 0 15px;
+    }
+    
+    li{
+        font-family: $title_font;
+        font-size: 18px;
+        &:hover {
+            border-bottom: 3px solid purple;
+        }
+        
     }
 }
 
@@ -52,6 +89,7 @@ a {
     cursor: pointer;
     text-decoration: inherit;
     transition: color 0.33s;
+    color: $color_secondary; 
 }
 
 main a {color: $color_secondary}
