@@ -9,7 +9,7 @@ html(lang="en")
         block body
             .container-fluid
                 .row
-                    main.col-sm-8
+                    main.col-sm-8.col-sm-offset-2
                         if posts
                             for post in posts
                                 article
@@ -17,10 +17,17 @@ html(lang="en")
                         if post
                             article
                                 = post
-                    aside.col-sm-3.col-sm-offset-1
-                        include sidebar.jade
         footer
-            p Collectqt.me
-            p: a(href='#') Back to top
+            .container
+                .row
+                    h3.sponsors Sponsors 
+                    br
+                    .col-sm-4.col-sm-offset-2
+                      a(href='http://apprenticeship.community')
+                        .brand-image: img.apprenticeship(src='http://raw.githubusercontent.com/zincmade/apprenticeship.community/primary/design/words-small.png', alt='Apprenticeship Community')
+                    .col-sm-4
+                      a(href='http://www.moorhensolutions.co.uk/')
+                        .brand-image: img.moorhensolutions(src='http://www.moorhensolutions.co.uk/images/Moorhen-Solutions.png') 
+        include ftr_nav.jade
         block footer
             include footer.html
